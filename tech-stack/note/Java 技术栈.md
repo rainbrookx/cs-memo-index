@@ -1,0 +1,23 @@
+# Java 技术栈
+
+- JDK：Oracle、Corretto、OpenJDK
+- JCP：Java Community Process <https://jcp.org/en/home/index>
+- Spring Boot
+- Spring Cloud
+- MyBatis
+- MyBatis-Plus
+- Knife4j：API 文档
+- Spring Eureka
+- Netflix Ribbon
+- Alibaba Nacos：注册中心、配置中心
+- Spring Feign
+- Spring Gateway
+- Docker
+- DockerCompose：部署微服务集群
+- Docker 私有仓库（joxit/docker-registry-ui:static）
+- RabbitMQ
+- SpringAMQP
+- Elasticsearch
+- Elastic Stack (ELK)：Elasticsearch、Kibana、Logstash、Beats
+- IK：分词器插件（中文分词）
+- RestClient
