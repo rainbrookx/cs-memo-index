@@ -20,4 +20,5 @@
 - Elasticsearch
 - Elastic Stack (ELK)：Elasticsearch、Kibana、Logstash、Beats
 - IK：分词器插件（中文分词）
+- 搜索自动补全：Completion Suggester、拼音分词器：<https://github.com/infinilabs/analysis-pinyin>
 - RestClient
