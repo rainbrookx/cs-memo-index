@@ -54,4 +54,13 @@
 - 分辨 SVC，把感官动词改成 be 动词，例如 That purse looks pretty. ==> That purse is pretty. ==> 该句子成立，所以是 SVC
 - 分辨 SVOC 和 SVOO，在 O 与 C 之间加上 be 动词，例如 I find the purse pretty. ==> The purse is pretty. ==> 该句子成立，所以是 SVOC
 
+### 02 动词时态
+
+| 状态(aspects) \ 时间(times) | 过去 | 现在 | 将来 |
+| :--- | :---: | :---: | :---: |
+| 一般时 |  |  |  |
+| 进行时 |  |  |  |
+| 完成时 |  |  |  |
+| 完成进行时 |  |  |  |
+
 ## Grammar in Use 正课

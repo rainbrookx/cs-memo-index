@@ -1,7 +1,11 @@
 # Java 技术栈
 
-- JDK：Oracle、Corretto、OpenJDK
 - JCP：Java Community Process <https://jcp.org/en/home/index>
+- JDK：Oracle、Corretto、OpenJDK
+- JSP、Servlet
+
+---
+
 - Spring Boot
 - Spring Cloud
 - MyBatis
@@ -19,6 +23,9 @@
 - SpringAMQP
 - Elasticsearch
 - Elastic Stack (ELK)：Elasticsearch、Kibana、Logstash、Beats
+- Cerebro
 - IK：分词器插件（中文分词）
 - 搜索自动补全：Completion Suggester、拼音分词器：<https://github.com/infinilabs/analysis-pinyin>
 - RestClient
+- Alibaba Sentinel
+- Seata
