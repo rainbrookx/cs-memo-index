@@ -1,0 +1,16 @@
+# C++ 库、API
+
+## 图形 API
+
+- graphics.h
+  - EasyX Graphics Library：<https://easyx.cn/>
+  - Easy Graphics Engine：<https://xege.org/>、<https://gitee.com/xege/xege>
+  - 在 VS Code 中使用 graphics.h：<https://github.com/Guyutongxue/vscode-xege-template>
+  - 《怎么在vscode中使用graphics.h 来绘图（C语言）? - 谷雨同学的回答》 <https://www.zhihu.com/question/472637365/answer/2008109070>
+- Windows GDI
+- GDI+
+- DirectX
+- OpenGL
+- Vulkan
+- Metal API
+- ImGUI
