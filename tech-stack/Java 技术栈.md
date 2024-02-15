@@ -1,7 +1,18 @@
 # Java 技术栈
 
+## 基础
+
 - JCP：Java Community Process <https://jcp.org/en/home/index>
 - JDK：Oracle、Corretto、OpenJDK
+
+## GUI
+
+- Java Swing
+- JavaFX
+
+## Web
+
+- JavaEE、JakartaEE
 - JSP、Servlet
 
 ---
@@ -29,3 +40,7 @@
 - RestClient
 - Alibaba Sentinel
 - Seata
+
+## 其他技术栈
+
+- Spring、Struts、Hibernate

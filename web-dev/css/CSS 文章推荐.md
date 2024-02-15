@@ -36,6 +36,8 @@
 
 《25分钟彻底弄懂CSS Flex基础布局 / CSS Flex 入门教程》 <https://www.bilibili.com/video/BV1A44y1Z7Bp/>
 
+《基本的布局方法——Flex布局》 <https://developers.weixin.qq.com/ebook?action=get_post_info&docid=00080e799303986b0086e605f5680a>
+
 ## CSS Grid 布局
 
 《Grid 全面学习！》 <https://zhuanlan.zhihu.com/p/468505179>

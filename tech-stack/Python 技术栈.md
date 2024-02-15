@@ -12,3 +12,8 @@
 
 - Uvicorn
 - Hypercorn
+
+## FastAPI 相关
+
+- Starlette
+- Pydantic
