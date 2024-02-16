@@ -1,5 +1,9 @@
 # Python 开发工具、依赖库
 
+## Python 官方提供的库
+
+- unittext：单元测试
+
 ## 开发工具
 
 - Anaconda
@@ -9,3 +13,9 @@
 - Jupyter Lab
 - Spyder
 - PandasGUI
+
+## 爬虫
+
+- Requests
+- Beautiful Soup
+- xlwt：Excel 操作
