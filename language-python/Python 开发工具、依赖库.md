@@ -14,6 +14,10 @@
 - Spyder
 - PandasGUI
 
+## 小工具
+
+- mypy：检查 Python 代码是否规范
+
 ## 爬虫
 
 - Requests
