@@ -1,6 +1,6 @@
-# Python 技术栈
+# Python 技术栈 - Web
 
-## Web
+## Web 框架
 
 - Django
 - Django REST framework
@@ -24,9 +24,13 @@
 - python-jose、pyca/cryptography、PyJWT：JWT
 - passlib：生成Hash
 - SQLAlchemy
+- httpx：测试
+- pytest：测试
 
 ## Flask 相关
 
+- Python 内置：
+  - secrets
 - Werkzeug
 - Jinja
 - MarkupSafe
@@ -36,6 +40,7 @@
 - python-dotenv
 - Watchdog
 - greenlet
+
 
 ## Django 相关
 

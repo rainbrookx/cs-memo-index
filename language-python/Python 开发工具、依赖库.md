@@ -2,7 +2,17 @@
 
 ## Python 官方提供的库
 
-- unittext：单元测试
+- urllib：一系列用于操作URL的功能。
+- re：正则表达式
+- unittest：单元测试
+
+## 环境管理工具
+
+《可能是最全的 Python 环境管理工具对比》 <https://zhuanlan.zhihu.com/p/681222081>
+
+《【Python】Python创建虚拟环境的三种方式》 <https://blog.csdn.net/ARPOSPF/article/details/113616988>
+
+《一文解读 virtualenv & venv & pipenv 之间的联系与区别》 <https://blog.csdn.net/weixin_40922744/article/details/103721870>
 
 ## 开发工具
 
@@ -18,8 +28,10 @@
 
 - mypy：检查 Python 代码是否规范
 
-## 爬虫
+## 数据可视化
 
-- Requests
-- Beautiful Soup
-- xlwt：Excel 操作
+- Gephi
+
+## 文章参考
+
+《Python 网络爬虫的常用库汇总（建议收藏）》 <https://blog.csdn.net/l01011_/article/details/133348896>

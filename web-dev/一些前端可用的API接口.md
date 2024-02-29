@@ -2,6 +2,10 @@
 
 ## 浏览器 Fetch API：JavaScript 中的 `fetch()` 函数
 
+## <https://httpbin.org/>
+
+测试使用的免费 API
+
 ## <https://yesno.wtf/api?{question}>
 
 > 这是一个神奇的网站，当你对某件事拿不定注意，需要别人推你一把时，可以访问它，它会随机返回一个 gif 动画，点头表示 yes，摇头表示 no。
