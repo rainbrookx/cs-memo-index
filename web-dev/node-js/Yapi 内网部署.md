@@ -1,5 +1,7 @@
 # Yapi 内网部署
 
+> Yapi：已经停止维护，目前（2024-3-1）无法正常部署，不建议使用
+
 <https://hellosean1025.github.io/yapi/devops/index.html>
 
 使用我们提供的 yapi-cli 工具，部署 YApi 平台是非常容易的。建议部署成 http 站点，因 chrome 浏览器安全限制，部署成 https 会导致测试功能在请求 http 站点时文件上传功能异常。
