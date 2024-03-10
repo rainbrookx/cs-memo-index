@@ -196,4 +196,146 @@ If he `were to graduate` on schedule, you `could call` me blind.
 
 条件从句与主句，二者的时间、语气不一致
 
+### 04 名词从句
+
+> 是一种复合句，把两个单句中的一个单句的前面加上 that、wh- 开头的特殊疑问词变成一个名词性质的成分，并将这个名词成分放入另一个句子的主语或宾语等名词成分位置上。
+
+#### 1. 来自陈述句（指从句的来源）
+
+在最前面加一个无意义的从属连接词 that：
+
+`(that)` He washes his car every day.
+
+放在 I believe it 里面，取代 it 的宾语位置，变为：
+
+I believe `(that)` he washes his car every day.
+
+#### 2. 来自特殊疑问句
+
+> who, which, what, when, why, how, where 这里的疑问词可以充当现成的`从属连接词`
+
+1. **`What` happened yesterday?** 如果疑问词本身就是主语，不用变动顺序
+2. What did he say? 如果疑问词不是主语，需要将句子还原 => **`what` he said**
+
+放到 I don't believe it 里面，取代 it 的宾语位置，分别为：
+
+1. I don't believe **`What` happened yesterday**.
+2. I don't believe **`what` he said**.
+
+P.S. what 有双重身份，像文言文中的`兼词`，可以把 what 理解为 the thing that。
+
+#### 3. 来自一般疑问句
+
+> 一般疑问句：用 Yes/No 回答。改成名词性从句的话**必须**加上**从属连接词** `whether` 或 `if`，最好就用 `whether`。
+>
+> 1. whether：是否。if：是否、如果
+> 2. 句首位置只能用 whether，不能用 if 来表示“是否”。例如：`Whether` we can win the big prize will be decided soon.
+> 3. 介词后面用 whether 不能用 if。例如：The manager hinted `at` whether he would sign the contract.
+
+Is it going to rain? 首先改成正常陈述的顺序，然后加上 whether，变成：**`Whether` it is going to rain.**
+
+放到 I don't know it 里面，取代 it 的宾语位置，就变为：
+
+I don't know **`Whether` it is going to rain (or not)**.
+
+#### 4. 名词从句放在主语中的位置
+
+1. 主语（that，wh-）
+2. 宾语（that，wh-）
+3. 补语（that，wh-）
+4. 名词的同位语（that，wh-）
+5. **介词后面的并于（wh-）**
+
+that 连接词由于没有实际意义，通常是能省则省（除了放最开头做主语不能省）。疑问词 wh- 等各自有意义，不能省略。
+
+说明：以下例句，加粗为名词从句，括号内表示可以省略
+
+1. 主语位置
+
+    **That he washes his car every day** is amazing.
+
+    ==使用 it 做形式主语，避免头重脚轻==>
+
+    It is amazing **(that) he washes his car every day**.
+
+    **Where he is hiding now** is a big mystery.
+
+    It is a big mystery **where he is hiding now**.
+
+2. 宾语位置
+
+    I believe **(that) he washes his car every day**.
+
+    I don't believe **what he said**.
+
+3. 补语位置
+
+    The question is **(that) we don't have enough food**.
+
+    The question is **whether we can find enough food**.
+
+4. 同位语位置（斜体的是宾语，后面的是同位语）
+
+    We don't realize *`the fact`* **(that) we don't have enough food**.
+
+    We don't understand *`the question`* **why we don't have enough food**.
+
+5. 介词后面的宾语
+
+    My response depends *`on`* **what he really meant by that**.
+
+### 05 定语从句
+
+#### 名词从句 VS 定语从句
+
+从句：He washes the car every day.
+
+主句：I believe it.
+
+名词从句：I believe (that) he washes the car every day.
+
+---
+
+从句：He washes **the car** every day.
+
+主句：**The car** is awesome.
+
+定语从句：**The car** (which/that) he washes every day is awesome.
+
+#### 定语从句的构造
+
+主句和从句中必须要有一个相同的元素，例如上面的（the car），这个相同的元素称为“**`先行词`**”，然后改写成对应的关系代词（同样也是连接词）。
+
+如果先行词是**人**，则关系代词为 who / whom / whose / that
+
+如果先行词是**物**，则关系代词为 which / whose / that
+
+大部分情况都可以用 that，除了宾格或者所有格的时候要用 whom 或 whose。
+
+#### 先行词在从句作主语
+
+从句：**The man** washes his car every day.
+
+主句：**The man** is rich.
+
+==> **The man** who washes his car every day is rich.
+
+==> **The man** that washes his car every day is rich.（that 不能省，省略会出现歧义）
+
+从句：**The movies** make me think.
+
+主句：I like **movies**.
+
+==> I like **movies** which make me think.
+
+==> I like **movies** that make me think.（that 不能省）
+
+#### 先行词在从句作宾语
+
+Jack is a **man** (whom/who/that) I trust completely.（从句：I trust the **man** completely.）
+
+The **movie** (which/that) I saw last night was excellent.（从句：I saw the **movie** last night.）
+
+#### 先行词在从句中做介词后的宾语【未完成】
+
 ## Grammar in Use 正课

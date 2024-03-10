@@ -36,6 +36,7 @@
 
 《springboot由3.1.5升级到3.2.0 报Invalid value type for attribute ‘factoryBeanObjectType‘: java.lang.String》 <https://blog.csdn.net/u011410254/article/details/134611035>
 
-## 
+## 其他
 
 - 阿里云 Java 8 Spring 脚手架：<https://start.aliyun.com/>
+- 《玩转Spring中强大的spel表达式！》 <https://zhuanlan.zhihu.com/p/174786047>
