@@ -68,3 +68,7 @@ File Utils插件,可以方便快捷的来创建、复制、移动、重命名文
 
 Live Preview
 Live Server
+
+## 让你的 VSCode 文件图标更好看的10个文件图标主题
+
+<https://juejin.cn/post/7247569496696389691>

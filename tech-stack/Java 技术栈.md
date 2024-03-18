@@ -40,6 +40,7 @@
 - RestClient
 - Alibaba Sentinel
 - Seata
+- Spring Task
 
 ## 其他技术栈
 
