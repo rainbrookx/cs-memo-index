@@ -50,6 +50,8 @@
 
 《更简洁的参数校验，使用 SpringBoot Validation 对参数进行校验》 <https://cloud.tencent.com/developer/article/2207507>
 
+《@Validated注解不生效问题汇总大全》 <https://blog.csdn.net/qiuxuezhe_fei/article/details/128197714>
+
 《BindException、ConstraintViolationException、MethodArgumentNotValidException入参验证异常分析和全局异常处理解决方法》 <https://blog.csdn.net/qq_43409401/article/details/116017177>
 
 ## Spring 自定义异常与自定义异常全局处理
