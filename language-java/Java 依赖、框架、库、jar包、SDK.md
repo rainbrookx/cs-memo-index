@@ -6,6 +6,7 @@
 - `lombok`：用 `@Data`、`@AllArgsConstructor`、`@NoArgsConstructor` 等注解简化 `JavaBean` 代码
 - `Google Guava`：
 - `commons-lang3`
+- `Apache Commons`
 
 ## HTML、XML、JSON 解析
 
@@ -34,6 +35,7 @@
 
 - `MyBatis`：
 - 数据库连接池：C3P0、DBCP、Druid（阿里巴巴）、Hikari
+- `Commons DbUtils`
 
 ## GUI
 
@@ -70,3 +72,8 @@
 
 - `Google HTTP Client Library For Java`：HTTP 协议的网络编程，包含了 JSON 的处理
 - `Apache HttpClient`：
+
+## Excel
+
+- `EasyExcel`
+- `Apache POI`

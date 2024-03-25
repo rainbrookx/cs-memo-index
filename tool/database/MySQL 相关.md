@@ -15,3 +15,5 @@
 《MySql时间处理及interval函数运用》 <https://blog.csdn.net/weixin_44641729/article/details/103793995>
 
 《Mysql的分段函数INTERVAL()和分值函数ELT()》 <https://blog.csdn.net/lkforce/article/details/109537495>
+
+《【SQL】区间（条件）分组统计》 <https://zhuanlan.zhihu.com/p/163452689>

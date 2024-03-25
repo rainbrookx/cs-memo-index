@@ -38,6 +38,14 @@
 
 《Spring Boot 发送邮件》 <https://springdoc.cn/spring-boot-email/>
 
+## Spring 表单、文件参数
+
+《Springboot接收 Form 表单数据》 <https://www.cnblogs.com/wjs2019/p/15946476.html>
+
+《Springboot接受文件与发送文件》 <https://blog.csdn.net/qq_57390446/article/details/127797971>
+
+《如何用SpringBoot框架来接收multipart/form-data文件》 <https://blog.csdn.net/linzhiqiang0316/article/details/77016997>
+
 ## Spring 参数校验与参数异常全局处理
 
 《java 校验注解之 @NotNull、@NotBlank、@NotEmpty》 <https://blog.csdn.net/dctCheng/article/details/116294394>
@@ -68,7 +76,11 @@
 
 《Spring Security - Samples》 <https://spring.io/projects/spring-security#samples>
 
-### BCrypt
+《spring security中的密码加密：BCrypt算法工具类BCryptPasswordEncoder》 <https://blog.csdn.net/chushiyan/article/details/103773679>
+
+## Spring 跨域
+
+《SpringBoot 中实现跨域的5种方式》 <https://blog.csdn.net/shaoming314/article/details/113937467>
 
 ## 其他
 
