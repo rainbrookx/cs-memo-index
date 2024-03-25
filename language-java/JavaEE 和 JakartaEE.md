@@ -1,4 +1,4 @@
-# Java JavaEE 和 JakartaEE
+# JavaEE 和 JakartaEE
 
 - Java Web 三大组件：Servlet、Filter、Listener
 
