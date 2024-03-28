@@ -35,7 +35,7 @@
 
 - `MyBatis`：
 - 数据库连接池：C3P0、DBCP、Druid（阿里巴巴）、Hikari
-- `Commons DbUtils`
+- `Apache Commons DbUtils`
 
 ## GUI
 
