@@ -1,12 +1,12 @@
 # Python 文章
 
-《Python高级特性-高阶函数》 <https://zhuanlan.zhihu.com/p/622302793>
+[《Python高级特性-高阶函数》](https://zhuanlan.zhihu.com/p/622302793)
 
-《自从搞懂了回调函数，我对Python的理解上了一个台阶！》 <https://zhuanlan.zhihu.com/p/544780403>
+[《自从搞懂了回调函数，我对Python的理解上了一个台阶！》](https://zhuanlan.zhihu.com/p/544780403)
 
-《python中5个常用的内置高阶函数》 <https://zhuanlan.zhihu.com/p/93225449>
+[《python中5个常用的内置高阶函数》](https://zhuanlan.zhihu.com/p/93225449)
 
-《Python 中 -m 的典型用法、原理解析与发展演变》 <https://zhuanlan.zhihu.com/p/91120727/>
+[《Python 中 -m 的典型用法、原理解析与发展演变》](https://zhuanlan.zhihu.com/p/91120727/)
 
 ```bash
 # 在 Python3 中，只需一行命令就能实现一个简单的 HTTP 服务：
@@ -16,9 +16,9 @@ python -m http.server 8000
 python -m SimpleHTTPServer 8000
 ```
 
-《Why you should use `python -m pip`》 <https://snarky.ca/why-you-should-use-python-m-pip/>
+[《Why you should use `python -m pip`》](https://snarky.ca/why-you-should-use-python-m-pip/)
 
-《原来我一直安装 Python 库的姿势都不对呀！》 <https://mp.weixin.qq.com/s/_LcztvEsz-fipjhlVnic8w>
+[《原来我一直安装 Python 库的姿势都不对呀！》](https://mp.weixin.qq.com/s/_LcztvEsz-fipjhlVnic8w)
 
 > 1. 建议用 `python-m pip` 安装三方库
 > 2. 务必使用**虚拟环境**，不要安装至系统 Python

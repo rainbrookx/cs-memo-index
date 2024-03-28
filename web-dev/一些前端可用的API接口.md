@@ -29,9 +29,9 @@
 
 ## 其他收集
 
-《超百个免费api接口，分享给你「建议收藏」》 <https://cloud.tencent.com/developer/article/2081636>
+[《超百个免费api接口，分享给你「建议收藏」》](https://cloud.tencent.com/developer/article/2081636)
 
-《免费API接口汇总（不定时更新）》 <https://segmentfault.com/a/1190000017047048>
+[《免费API接口汇总（不定时更新）》](https://segmentfault.com/a/1190000017047048)
 
 ## GitHub 公开的 API
 

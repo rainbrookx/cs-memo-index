@@ -3,7 +3,7 @@
 ## Linux 内核
 
 - **The Linux Kernel Archives （官网）** <https://www.kernel.org>
-- 《Linux 内核代码风格》 <https://www.kernel.org/doc/html/v4.14/translations/zh_CN/coding-style.html>
+- [《Linux 内核代码风格》](https://www.kernel.org/doc/html/v4.14/translations/zh_CN/coding-style.html)
 
 ## Linux Wiki
 

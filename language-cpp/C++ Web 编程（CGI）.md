@@ -8,19 +8,19 @@
 
 ## 教程
 
-《apache怎么下载安装》 <https://www.php.cn/apache/431961.html>
+[《apache怎么下载安装》](https://www.php.cn/apache/431961.html)
 
-《Apache检查httpd.conf的语法错误的方法》 <https://cloud.tencent.com/developer/article/2059351>
+[《Apache检查httpd.conf的语法错误的方法》](https://cloud.tencent.com/developer/article/2059351)
 
-《Windows 配置Apache+CGI》 <https://blog.csdn.net/zhuanshu666/article/details/74936940>
+[《Windows 配置Apache+CGI》](https://blog.csdn.net/zhuanshu666/article/details/74936940)
 
-《windows apache+cgi 运行c/c++》 <https://blog.csdn.net/qq_26591517/article/details/80413970>
+[《windows apache+cgi 运行c/c++》](https://blog.csdn.net/qq_26591517/article/details/80413970)
 
-《CGI入门一：使用C++实现CGI程序》 <https://blog.csdn.net/asmartkiller/article/details/89387591>
+[《CGI入门一：使用C++实现CGI程序》](https://blog.csdn.net/asmartkiller/article/details/89387591)
 
-《C++ Web 编程》 <https://www.runoob.com/cplusplus/cpp-web-programming.html>
+[《C++ Web 编程》](https://www.runoob.com/cplusplus/cpp-web-programming.html)
 
-《CGI与FastCGI》 <https://www.cnblogs.com/wanghetao/p/3934350.html>
+[《CGI与FastCGI》](https://www.cnblogs.com/wanghetao/p/3934350.html)
 
 ---
 

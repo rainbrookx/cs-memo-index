@@ -47,17 +47,17 @@
 
 ---
 
-《Java 修饰符》 <https://www.runoob.com/java/java-modifier-types.html>
+[《Java 修饰符》](https://www.runoob.com/java/java-modifier-types.html)
 
-《Java protected 关键字详解》 <https://www.runoob.com/w3cnote/java-protected-keyword-detailed-explanation.html>
+[《Java protected 关键字详解》](https://www.runoob.com/w3cnote/java-protected-keyword-detailed-explanation.html)
 
-《Java常见的各种修饰符》 <https://blog.csdn.net/yh991314/article/details/108560584>
+[《Java常见的各种修饰符》](https://blog.csdn.net/yh991314/article/details/108560584)
 
-《Java中各类修饰符的使用总结（看完这篇就够了）》 <https://blog.csdn.net/u012723673/article/details/80613557>
+[《Java中各类修饰符的使用总结（看完这篇就够了）》](https://blog.csdn.net/u012723673/article/details/80613557)
 
 ## is-a 、have-a、和 like-a
 
-《HAS-A, IS-A terminology in object oriented language》 <https://stackoverflow.com/questions/2218937/has-a-is-a-terminology-in-object-oriented-language>
+[《HAS-A, IS-A terminology in object oriented language》](https://stackoverflow.com/questions/2218937/has-a-is-a-terminology-in-object-oriented-language)
 
 > A House **is a** Building (inheritance);
 >
@@ -70,7 +70,7 @@
 >
 > A Sparrow **is-a** Bird.
 
-《is-a 、have-a、和 like-a的区别》 <https://www.cnblogs.com/dhm520/p/8423392.html>
+[《is-a 、have-a、和 like-a的区别》](https://www.cnblogs.com/dhm520/p/8423392.html)
 
 ## 泛型
 
