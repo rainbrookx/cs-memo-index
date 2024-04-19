@@ -35,7 +35,7 @@
 
 - `MyBatis`：
 - 数据库连接池：C3P0、DBCP、Druid（阿里巴巴）、Hikari
-- `Apache Commons DbUtils`
+- `Apache Commons DbUtils`：[DBUtils 教程](https://www.w3ccoo.com/apache_dbutils/index.html)
 
 ## GUI
 
@@ -77,3 +77,7 @@
 
 - `EasyExcel`
 - `Apache POI`
+
+## 安全
+
+- `Apache Shiro`

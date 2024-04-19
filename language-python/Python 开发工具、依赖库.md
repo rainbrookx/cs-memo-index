@@ -32,6 +32,11 @@
 
 - Gephi
 
+## 数学、科学计算
+
+- SciPy
+- NumPy
+
 ## 文章参考
 
 [《Python 网络爬虫的常用库汇总（建议收藏）》](https://blog.csdn.net/l01011_/article/details/133348896)

@@ -20,6 +20,15 @@
 
 [《Java8 Stream（11）List转Map》](https://blog.csdn.net/winterking3/article/details/116457573)
 
+[《Java8 Stream（8）List集合统计 求和 最大值 最小值 平均值》](https://blog.csdn.net/winterking3/article/details/116288311)
+
+[《Java中List、Integer[]、int[] 的相互转换》](https://zhuanlan.zhihu.com/p/196698839)
+
+```java
+int[] data = {4, 5, 3, 6, 2, 5, 1};
+List<Integer> list1 = Arrays.stream(data).boxed().collect(Collectors.toList());
+```
+
 ## Java 函数式接口 @FunctionalInterface
 
 [《JDK8新特性：函数式接口@FunctionalInterface的使用说明》](https://blog.csdn.net/aitangyong/article/details/54137067)
@@ -39,3 +48,13 @@
 [《统计年，月，日，java补充无的数据》](https://blog.csdn.net/qq_44982110/article/details/131654425)
 
 [《Java补全数据库查询统计数据缺失的日期》](https://blog.csdn.net/m4330187/article/details/106069176/)
+
+- 对数据库 group by 后的查询结果补全数据，可以在 Java 代码中使用快慢指针的算法
+
+## Java 特殊功能模块
+
+[Java 中 RMI、JNDI、LADP、JRMP、JMX、JMS那些事儿（上）](https://cloud.tencent.com/developer/article/1554406)
+
+[Java Web Start 指南](https://blog.csdn.net/allway2/article/details/126178773)
+
+[Open Web Start](https://openwebstart.com/)

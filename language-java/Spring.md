@@ -62,6 +62,8 @@
 
 [《BindException、ConstraintViolationException、MethodArgumentNotValidException入参验证异常分析和全局异常处理解决方法》](https://blog.csdn.net/qq_43409401/article/details/116017177)
 
+【好文】[《BindException、ConstraintViolationException、MethodArgumentNotValidException入参验证异常分析和全局异常处理解决方法》](https://blog.csdn.net/qq_43409401/article/details/116017177)
+
 ## Spring 自定义异常与自定义异常全局处理
 
 [《Spring Boot项目优雅的全局异常处理方式（全网最新）》](https://blog.csdn.net/qq_41107231/article/details/115874974)
@@ -85,6 +87,12 @@
 ## Spring 跨域
 
 [《SpringBoot 中实现跨域的5种方式》](https://blog.csdn.net/shaoming314/article/details/113937467)
+
+## Spring 配置文件内容加密
+
+[SpringBoot 配置文件/属性ENC加密](https://www.cnblogs.com/ruhuanxingyun/p/12152579.html)
+
+[给yml配置文件的密码加密(SpringBoot)](https://blog.csdn.net/m0_37929837/article/details/121942265)
 
 ## 其他
 
