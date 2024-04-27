@@ -1,4 +1,4 @@
-# Java 原生特性
+# Java SE 原生特性
 
 ## JAR
 
@@ -36,6 +36,18 @@ List<Integer> list1 = Arrays.stream(data).boxed().collect(Collectors.toList());
 ## Java 枚举
 
 [《Java 枚举(enum) 详解7种常见的用法》](https://blog.csdn.net/qq_27093465/article/details/52180865)
+
+## Java 数字
+
+[《Java保留2位小数（六种方法）》](https://blog.csdn.net/ay7788/article/details/125873135)
+
+[《java保留两位小数4种方法》](https://www.cnblogs.com/Renyi-Fan/p/7643764.html)
+
+## Java 类路径（classpath）
+
+[《Java获取类路径的方式》](https://blog.csdn.net/An1090239782/article/details/82590011)
+
+[《Java如何获取当前的jar包路径以及如何读取jar包中的资源》](https://www.cnblogs.com/zeciiii/p/4178824.html)
 
 ## Java、MySQL 补全数据
 

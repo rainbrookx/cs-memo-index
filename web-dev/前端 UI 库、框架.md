@@ -24,6 +24,8 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - **Node.js** <https://nodejs.org/en>
 - **Axios** <https://axios-http.com>
 - **WOW.js** <https://wowjs.uk> 官网上有很多狗狗🥰~
+- **Alpine.js** <https://alpinejs.dev/> 可以代替 jQuery
+- **You might not need jQuery** <https://youmightnotneedjquery.com/> 使用原生最新 JavaScript 替代 jQuery
 
 ## Vue 系列
 
@@ -34,6 +36,7 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - **VuePress 主题** <https://theme-hope.vuejs.press>
 - **BootstrapVue** <https://bootstrap-vue.org>
 - **Vue 3 UI 框架** <https://element-plus.org/zh-CN/>
+- **petite-vue** 配合 jQuery 或 Alpine.js 使用
 
 ## UI
 

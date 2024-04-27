@@ -62,7 +62,7 @@
 
 [《BindException、ConstraintViolationException、MethodArgumentNotValidException入参验证异常分析和全局异常处理解决方法》](https://blog.csdn.net/qq_43409401/article/details/116017177)
 
-【好文】[《BindException、ConstraintViolationException、MethodArgumentNotValidException入参验证异常分析和全局异常处理解决方法》](https://blog.csdn.net/qq_43409401/article/details/116017177)
+【推荐】[《BindException、ConstraintViolationException、MethodArgumentNotValidException入参验证异常分析和全局异常处理解决方法》](https://blog.csdn.net/qq_43409401/article/details/116017177)
 
 ## Spring 自定义异常与自定义异常全局处理
 
@@ -83,6 +83,12 @@
 [《Spring Security - Samples》](https://spring.io/projects/spring-security#samples)
 
 [《spring security中的密码加密：BCrypt算法工具类BCryptPasswordEncoder》](https://blog.csdn.net/chushiyan/article/details/103773679)
+
+[《Spring Security（新版本）实现权限认证与授权》](https://blog.csdn.net/weixin_46073538/article/details/128641746)
+
+【推荐】[《SpringSecurity默认用户名密码从哪来，为什么要写UserDetails...》](https://blog.csdn.net/weixin_46827107/article/details/120215626)
+
+[《报错解决：There-is-no-PasswordEncoder-mapped-for-the-id-null》](https://blog.csdn.net/qyb19970829/article/details/110006513)
 
 ## Spring 跨域
 

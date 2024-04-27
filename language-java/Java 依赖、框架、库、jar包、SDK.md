@@ -81,3 +81,7 @@
 ## 安全
 
 - `Apache Shiro`
+
+## 深拷贝
+
+[《对象拷贝之Apache BeanUtils、Spring的BeanUtils、Mapstruct、BeanCopier、PropertieyUtils对比（深拷贝）》](https://blog.csdn.net/ZYC88888/article/details/109681423)
