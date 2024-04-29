@@ -36,6 +36,7 @@
 - `MyBatis`：
 - 数据库连接池：C3P0、DBCP、Druid（阿里巴巴）、Hikari
 - `Apache Commons DbUtils`：[DBUtils 教程](https://www.w3ccoo.com/apache_dbutils/index.html)
+- `Mycat 2`：<http://www.mycat.org.cn/>
 
 ## GUI
 
@@ -84,4 +85,4 @@
 
 ## 深拷贝
 
-[《对象拷贝之Apache BeanUtils、Spring的BeanUtils、Mapstruct、BeanCopier、PropertieyUtils对比（深拷贝）》](https://blog.csdn.net/ZYC88888/article/details/109681423)
+[对象拷贝之Apache BeanUtils、Spring的BeanUtils、Mapstruct、BeanCopier、PropertieyUtils对比（深拷贝）](https://blog.csdn.net/ZYC88888/article/details/109681423)

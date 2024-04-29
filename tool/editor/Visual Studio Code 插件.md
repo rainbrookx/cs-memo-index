@@ -72,3 +72,7 @@ Live Server
 ## 让你的 VSCode 文件图标更好看的10个文件图标主题
 
 <https://juejin.cn/post/7247569496696389691>
+
+## Markdown 转变成 PPT（HTTP模式）
+
+[vscode插件vscode-reveal 程序员做PPT的必备神器](https://blog.csdn.net/weixin_45024541/article/details/103955746)
