@@ -19,6 +19,10 @@
 }
 ```
 
+## 占位符 API
+
+- {JSON} Placeholder：<https://jsonplaceholder.typicode.com/>
+
 ## 实用 API
 
 - 教书先生：<https://api.oioweb.cn/>

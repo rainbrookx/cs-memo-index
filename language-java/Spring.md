@@ -96,6 +96,8 @@
 
 [SpringSecurity基本配置](https://blog.csdn.net/qq_40369277/article/details/133218894)
 
+[springboot整合springsecurity最完整，只看这一篇就够了](https://www.cnblogs.com/qiantao/p/14605154.html)
+
 ## Spring 跨域
 
 [SpringBoot 中实现跨域的5种方式](https://blog.csdn.net/shaoming314/article/details/113937467)
