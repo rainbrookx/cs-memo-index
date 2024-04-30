@@ -69,10 +69,12 @@ File Utils插件,可以方便快捷的来创建、复制、移动、重命名文
 Live Preview
 Live Server
 
-## 让你的 VSCode 文件图标更好看的10个文件图标主题
-
-<https://juejin.cn/post/7247569496696389691>
-
 ## Markdown 转变成 PPT（HTTP模式）
 
 [vscode插件vscode-reveal 程序员做PPT的必备神器](https://blog.csdn.net/weixin_45024541/article/details/103955746)
+
+## 插件推荐文章
+
+[让你的 VSCode 文件图标更好看的10个文件图标主题](https://juejin.cn/post/7247569496696389691)
+
+[10款VS Code插件神器，第7款超级实用！](https://zhuanlan.zhihu.com/p/111004160)

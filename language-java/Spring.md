@@ -102,6 +102,8 @@
 
 [SpringBoot 中实现跨域的5种方式](https://blog.csdn.net/shaoming314/article/details/113937467)
 
+[【译】3种解决CORS错误的方式与Access-Control-Allow-Origin的作用原理](https://segmentfault.com/a/1190000022506474)
+
 ## Spring 配置文件内容加密
 
 [SpringBoot 配置文件/属性ENC加密](https://www.cnblogs.com/ruhuanxingyun/p/12152579.html)

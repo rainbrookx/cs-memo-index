@@ -69,6 +69,14 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - PrimeVUE
 - uViewUI：专门用于 uni-app 开发 <https://uviewui.com/>
 
+## 打包工具
+
+[webpack](https://webpack.js.org/)
+
+[Parcel](https://parceljs.org/)
+
+[Parcel 中文](https://www.parceljs.cn/)
+
 ## 其他
 
 - Node.js

@@ -19,9 +19,17 @@
 }
 ```
 
-## 占位符 API
+## 占位符
 
 - {JSON} Placeholder：<https://jsonplaceholder.typicode.com/>
+
+## 日期时间
+
+- UTC：<https://worldtimeapi.org/api/timezone/etc/UTC.txt>
+
+## 地图
+
+[三大地图付费后，仍可用的免费商用地图API](https://blog.csdn.net/wm2ufq48/article/details/128333344)
 
 ## 实用 API
 
@@ -33,9 +41,13 @@
 
 ## 其他收集
 
-[《超百个免费api接口，分享给你「建议收藏」》](https://cloud.tencent.com/developer/article/2081636)
+[超百个免费api接口，分享给你「建议收藏」](https://cloud.tencent.com/developer/article/2081636)
 
-[《免费API接口汇总（不定时更新）》](https://segmentfault.com/a/1190000017047048)
+[免费API接口汇总（不定时更新）](https://segmentfault.com/a/1190000017047048)
+
+[Public API Lists](https://github.com/public-api-lists/public-api-lists)
+
+[Public APIs](https://github.com/public-apis/public-apis)
 
 ## GitHub 公开的 API
 
