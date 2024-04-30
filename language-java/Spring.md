@@ -110,6 +110,10 @@
 
 [给yml配置文件的密码加密(SpringBoot)](https://blog.csdn.net/m0_37929837/article/details/121942265)
 
+## Spring 底层知识
+
+[一文带你搞懂Spring MVC和servlet（面试必备）](https://blog.csdn.net/qq_36908783/article/details/105816074)
+
 ## 其他
 
 - 阿里云 Java 8 Spring 脚手架：<https://start.aliyun.com/>
