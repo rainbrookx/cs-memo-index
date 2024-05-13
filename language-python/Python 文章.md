@@ -22,6 +22,10 @@ python -m SimpleHTTPServer 8000
 > 4. 建议用 `python-m venv` 创建虚拟环境
 > 5. 可以将容器整体作为一个环境，跳过虚拟环境
 
+## Python 打包
+
+[Python 进阶必学库：Pyinstaller 使用详解 ！](https://zhuanlan.zhihu.com/p/71081512)
+
 ## 高阶函数
 
 [Python高级特性-高阶函数](https://zhuanlan.zhihu.com/p/622302793)
