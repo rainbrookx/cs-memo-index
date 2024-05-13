@@ -6,7 +6,7 @@
 
 EasyExcel：<https://easyexcel.opensource.alibaba.com/>
 
-[《EasyExcel 常见问题》](https://easyexcel.opensource.alibaba.com/qa/)
+[EasyExcel 常见问题](https://easyexcel.opensource.alibaba.com/qa/)
 
 ## EasyExcel 与 Lombok
 
@@ -14,9 +14,9 @@ EasyExcel：<https://easyexcel.opensource.alibaba.com/>
 
 **参考**：
 
-[《EasyExcel与@Accessors(chain = true)不兼容分析》](https://blog.csdn.net/qq_28036249/article/details/108035369)
+[EasyExcel与@Accessors(chain = true)不兼容分析](https://blog.csdn.net/qq_28036249/article/details/108035369)
 
-[《【lombok】从easyExcel read不到值到cglib @Accessors(chain = true)隐藏的大坑》](https://blog.csdn.net/qq_36268103/article/details/134954322)
+[【lombok】从easyExcel read不到值到cglib @Accessors(chain = true)隐藏的大坑](https://blog.csdn.net/qq_36268103/article/details/134954322)
 
 ## EasyExcel 与 Java 枚举、转换器
 
@@ -40,10 +40,10 @@ StaticComponentContainer.Modules.exportAllToAll();
 
 **参考**：
 
-[《直接使用JDK17导致EasyExcel无法使用的问题》](https://blog.csdn.net/weixin_42792301/article/details/121456156)
+[直接使用JDK17导致EasyExcel无法使用的问题](https://blog.csdn.net/weixin_42792301/article/details/121456156)
 
 ## EasyExcel 源码分析
 
-[《EasyExcel对Excel文件的解析过程》](https://www.cnblogs.com/gwtjava/p/11937777.html)
+[EasyExcel对Excel文件的解析过程](https://www.cnblogs.com/gwtjava/p/11937777.html)
 
-[《easyexcel的源码简单分析》](https://blog.csdn.net/baidu_21349635/article/details/106158100)
+[easyexcel的源码简单分析](https://blog.csdn.net/baidu_21349635/article/details/106158100)

@@ -70,3 +70,5 @@ List<Integer> list1 = Arrays.stream(data).boxed().collect(Collectors.toList());
 [Java Web Start 指南](https://blog.csdn.net/allway2/article/details/126178773)
 
 [Open Web Start](https://openwebstart.com/)
+
+[Java Web Start](https://docs.oracle.com/javase/8/docs/technotes/guides/javaws/)
