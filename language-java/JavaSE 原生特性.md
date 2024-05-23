@@ -49,6 +49,8 @@ List<Integer> list1 = Arrays.stream(data).boxed().collect(Collectors.toList());
 
 [Java如何获取当前的jar包路径以及如何读取jar包中的资源](https://www.cnblogs.com/zeciiii/p/4178824.html)
 
+[springboot项目中，读取 resources 目录下的文件的几种方式](https://zhuanlan.zhihu.com/p/618466727)
+
 ## Java、MySQL 补全数据
 
 [统计从当月起前6个月的数据及数据补全的Java端做法和SQL做法](https://blog.csdn.net/weixin_40598838/article/details/110860881)
@@ -72,3 +74,13 @@ List<Integer> list1 = Arrays.stream(data).boxed().collect(Collectors.toList());
 [Open Web Start](https://openwebstart.com/)
 
 [Java Web Start](https://docs.oracle.com/javase/8/docs/technotes/guides/javaws/)
+
+## Java 模块
+
+[模块](https://www.liaoxuefeng.com/wiki/1252599548343744/1281795926523938)
+
+[【Java 基础篇】Java 模块化详解](https://blog.csdn.net/qq_21484461/article/details/131421855)
+
+## Java Properties
+
+Properties 读取的文件的后缀不需要是 properties，甚至可以不要后缀，没有转义的空格是不会被读取的 [Class Properties](https://docs.oracle.com/en/java/javase/22/docs/api/java.base/java/util/Properties.html)

@@ -42,8 +42,8 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 
 - Mint UI
 - WeUI
-- **iView UI / View UI** <https://www.iviewui.com>
-- **Layui** <https://layui.itze.cn>
+- [iView UI | View UI](https://www.iviewui.com)
+- [Layui](https://layui.itze.cn)
 - ElementUI
 - vant UI
 - Vant Weapp
@@ -51,8 +51,8 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - Quasar Framework
 - bootstrap
 - MuseUI
-- jQueryUI
-- EasyUI
+- [jQuery UI](https://jqueryui.com/)
+- [EasyUI | jQuery EasyUI](https://jeasyui.com/)
 - QuicK UI
 - At-UI
 - antd
@@ -71,11 +71,9 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 
 ## 打包工具
 
-[webpack](https://webpack.js.org/)
-
-[Parcel](https://parceljs.org/)
-
-[Parcel 中文](https://www.parceljs.cn/)
+- [webpack](https://webpack.js.org/)
+- [Parcel](https://parceljs.org/)
+- [Parcel 中文](https://www.parceljs.cn/)
 
 ## 其他
 
