@@ -1,7 +1,5 @@
 # 一些前端可用的API接口
 
-## 浏览器 Fetch API：JavaScript 中的 `fetch()` 函数
-
 ## <https://httpbin.org/>
 
 测试使用的免费 API

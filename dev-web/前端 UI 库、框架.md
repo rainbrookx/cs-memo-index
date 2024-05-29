@@ -51,8 +51,8 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - Quasar Framework
 - bootstrap
 - MuseUI
-- [jQuery UI](https://jqueryui.com/)
-- [EasyUI | jQuery EasyUI](https://jeasyui.com/)
+- [jQuery UI](https://jqueryui.com/)、[中文站](https://www.jqueryui.org.cn/)
+- [EasyUI | jQuery EasyUI](https://jeasyui.com/)、[中文站](https://www.jeasyui.cn/)
 - QuicK UI
 - At-UI
 - antd
@@ -68,6 +68,7 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - Quasar
 - PrimeVUE
 - uViewUI：专门用于 uni-app 开发 <https://uviewui.com/>
+- B-JUI (Best jQuery UI)
 
 ## 打包工具
 

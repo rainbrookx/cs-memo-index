@@ -33,6 +33,10 @@
 @WebFilter(urlPatterns = {"/user/*"})
 ```
 
+[java学习能不能跳过servlet？](https://www.zhihu.com/question/379662619/answer/1104529695)
+
+[Java：Servlet getParameter接收multipart/form-data格式数据](https://blog.csdn.net/qq_45858169/article/details/117855316)
+
 ## JSP
 
 通过servlet [【Servlet】如何隐藏.jsp后缀或是更改后缀名](https://blog.csdn.net/smileyan9/article/details/80408711)
