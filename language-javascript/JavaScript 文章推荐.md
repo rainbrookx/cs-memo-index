@@ -32,7 +32,13 @@
 
 [JavaScript Promise](https://www.runoob.com/js/js-promise.html) 非常有用
 
-## fetch()
+[判断js对象类型的多种方法，附详细说明](https://juejin.cn/post/6844903889280434184)
+
+## 事件
+
+[JavaScript---事件绑定（多种方式、传递参数）](https://www.cnblogs.com/mq0036/p/14333403.html)
+
+## 异步请求
 
 [Fetch API 教程](https://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html)
 
@@ -46,3 +52,9 @@ fetch('https://api.github.com/users/ruanyf')
   .then(json => console.log(json))
   .catch(err => console.log('Request Failed', err));
 ```
+
+[HTTP系列：axios和fetch的二次封装处理](https://juejin.cn/post/6986648201823125541)
+
+[Ajax请求中url三种写法方式（Ajax请求路径问题，$.ajax中url携带当前页面路径原因）](https://blog.csdn.net/shenju2011/article/details/90748409)
+
+[Tomcat下ajax请求路径总结](https://www.cnblogs.com/guanmu/p/5215833.html)
