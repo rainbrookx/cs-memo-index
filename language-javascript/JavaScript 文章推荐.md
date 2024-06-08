@@ -32,6 +32,14 @@
 
 [JavaScript Promise](https://www.runoob.com/js/js-promise.html) 非常有用
 
+[JavaScript 闭包](https://www.runoob.com/js/js-function-closures.html)
+
+[JavaScript HTML DOM EventListener](https://www.runoob.com/js/js-htmldom-eventlistener.html)
+
+[JavaScript prototype（原型对象）](https://www.runoob.com/js/js-object-prototype.html)
+
+[JavaScript 计时事件](https://www.runoob.com/js/js-timing.html)
+
 [判断js对象类型的多种方法，附详细说明](https://juejin.cn/post/6844903889280434184)
 
 ## 事件

@@ -1,3 +1,3 @@
-# JSON 相关技术文档
+# JSON
 
 - JSON Schema：<https://json-schema.org/>

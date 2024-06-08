@@ -50,6 +50,10 @@
 
 [如何用SpringBoot框架来接收multipart/form-data文件](https://blog.csdn.net/linzhiqiang0316/article/details/77016997)
 
+[使用多个 @RequestBody 接收参数传递给 Controller](https://blog.csdn.net/qq_53316135/article/details/122195566)
+
+> 常规情况下， 因为 request 请求的 body 只能读取一次，我们使用 @RequestBody 只能解析一次，如果在方法参数中增加第二个 @RequestBody 注解的话，stream 流已经关闭，无法读取，返回 400 错误
+
 ## Spring 参数校验与参数异常全局处理
 
 [java 校验注解之 @NotNull、@NotBlank、@NotEmpty](https://blog.csdn.net/dctCheng/article/details/116294394)

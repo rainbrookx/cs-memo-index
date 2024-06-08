@@ -22,7 +22,7 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 
 - **npm** <https://www.npmjs.com>
 - **Node.js** <https://nodejs.org/en>
-- **Axios** <https://axios-http.com>
+- [Axios](https://axios-http.com)、[中文站](https://axios.js.cn/)
 - **WOW.js** <https://wowjs.uk> 官网上有很多狗狗🥰~
 - **Alpine.js** <https://alpinejs.dev/> 可以代替 jQuery
 - **You might not need jQuery** <https://youmightnotneedjquery.com/> 使用原生最新 JavaScript 替代 jQuery
@@ -78,7 +78,7 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 
 ## 其他
 
-- - jQuery
+- jQuery
 - Node.js
 - Vue.js
 - React.js
@@ -94,6 +94,9 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - swiperjs：<https://swiperjs.com/>、<https://swiper.com.cn/>
 - [prototype.js](http://prototypejs.org/)
 - [MooTools](https://mootools.net/)
+- [Handlebars](https://handlebarsjs.com/)、[中文站](https://www.handlebarsjs.cn/)
+- [animate.css](https://animate.style/)
+- [Velocity.js](http://velocityjs.org/)
 
 [JavaScript 库](https://www.runoob.com/js/js-libraries.html)
 
