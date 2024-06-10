@@ -26,6 +26,8 @@ python -m SimpleHTTPServer 8000
 
 [Python 进阶必学库：Pyinstaller 使用详解 ！](https://zhuanlan.zhihu.com/p/71081512)
 
+[Python 中的 requirement.txt](https://zhuanlan.zhihu.com/p/69058584)
+
 ## 高阶函数
 
 [Python高级特性-高阶函数](https://zhuanlan.zhihu.com/p/622302793)

@@ -120,8 +120,14 @@
 
 ## 其他
 
-- 阿里云 Java 8 Spring 脚手架：<https://start.aliyun.com/>
-- [玩转Spring中强大的spel表达式！](https://zhuanlan.zhihu.com/p/174786047)
-- [定时任务的cron表达式](https://zhuanlan.zhihu.com/p/163050320)（Spring Task、Quartz、xxl-job、Elastic-job）
-- [Ant风格的路径模式](https://blog.csdn.net/islautao/article/details/131503390)
-- [Converting a Spring Boot JAR Application to a WAR](https://spring.io/guides/gs/convert-jar-to-war)
+[阿里云 Java 8 Spring 脚手架](https://start.aliyun.com/)
+
+[玩转Spring中强大的spel表达式！](https://zhuanlan.zhihu.com/p/174786047)
+
+[定时任务的cron表达式](https://zhuanlan.zhihu.com/p/163050320)（Spring Task、Quartz、xxl-job、Elastic-job）
+
+[Ant风格的路径模式](https://blog.csdn.net/islautao/article/details/131503390)
+
+[Converting a Spring Boot JAR Application to a WAR](https://spring.io/guides/gs/convert-jar-to-war)
+
+[springMvc的web.xml中的classpath指项目中的哪个路径](https://blog.csdn.net/elice_/article/details/87857966)

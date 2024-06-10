@@ -42,6 +42,12 @@
 
 [判断js对象类型的多种方法，附详细说明](https://juejin.cn/post/6844903889280434184)
 
+[JS防抖函数的实现(巨详细,秒懂)](https://blog.csdn.net/qq_63299825/article/details/130862307)
+
+[深入理解ES6箭头函数里的this，看这篇就够了](https://blog.csdn.net/lidysun/article/details/104492774)
+
+[如何在HTML中限制input 输入框只能输入纯数字](https://blog.csdn.net/w6990548/article/details/79388905)
+
 ## 事件
 
 [JavaScript---事件绑定（多种方式、传递参数）](https://www.cnblogs.com/mq0036/p/14333403.html)

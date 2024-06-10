@@ -8,6 +8,12 @@ Visual Studio Code，可以安装丰富多样的插件。
 
 安装了 Dev-C++ 的同时，在 Dev-C++ 根目录有一个 `MinGW64` 文件夹，可以在系统环境变量 PATH 中 添加 `MinGW64\bin` 的绝对路径，这样之后，VSCode 就可以编译 C/C++ 文件。配合 CMake 可以编译链接 C/C++ 项目（多个文件）。
 
+## VSCode Snippets
+
+[一个案例学会 VSCode Snippets，极大提高开发效率](https://zhuanlan.zhihu.com/p/457062272)
+
+[重复代码的克星，高效工具 VSCode snippets 的使用指南](https://www.cnblogs.com/xiao2shiqi/p/14466133.html)
+
 ## VS Code 有意思的命令
 
 ### 导出已安装的插件名称

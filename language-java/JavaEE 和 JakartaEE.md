@@ -46,3 +46,5 @@
 [SpringBoot项目访问不到resources目录下的jsp文件](https://blog.csdn.net/David_jiahuan/article/details/101161835)
 
 [Spring Boot+JSP项目中静态资源配置](https://blog.csdn.net/yitian_z/article/details/104110466)
+
+[WEB项目web.xml文件中classpath: 跟classpath*:使用说明【学习笔记】](https://blog.csdn.net/qq_26929957/article/details/79211579)

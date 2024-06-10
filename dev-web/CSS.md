@@ -61,3 +61,11 @@
 ## 技巧
 
 [input输入字体时抖动](https://blog.csdn.net/weixin_45895806/article/details/112581061)
+
+[CSS盒子塌陷的5种解决方法](https://blog.csdn.net/kirinlau/article/details/73505903)
+
+[CSS 隐藏元素的八种方法](https://juejin.cn/post/6844903456545701901)
+
+[[译] 使用 CSS object-fit 属性裁剪图片](https://juejin.cn/post/6844904053210628104)
+
+[解决滚动条出现挤压页面宽度](https://blog.csdn.net/Mean_/article/details/90258307)

@@ -69,6 +69,7 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - PrimeVUE
 - uViewUI：专门用于 uni-app 开发 <https://uviewui.com/>
 - B-JUI (Best jQuery UI)
+- [推荐10个最受欢迎的 Vue.js UI 库](https://segmentfault.com/a/1190000044633126)
 
 ## 打包工具
 
@@ -97,6 +98,8 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - [Handlebars](https://handlebarsjs.com/)、[中文站](https://www.handlebarsjs.cn/)
 - [animate.css](https://animate.style/)
 - [Velocity.js](http://velocityjs.org/)
+- [Lodash](https://lodash.com/)
+- [谁在偷看我代码？--- devtools-detector](https://juejin.cn/post/6986957833929490445)
 
 [JavaScript 库](https://www.runoob.com/js/js-libraries.html)
 
