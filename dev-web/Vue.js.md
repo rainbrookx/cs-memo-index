@@ -27,3 +27,7 @@ JavaScript 的 hash：location.hash()
 [VUE.js中访问地址的url带有#的问题](https://segmentfault.com/a/1190000015664067)
 
 [vue-router路径上带井号解决](https://blog.csdn.net/weixin_45020094/article/details/106595324)
+
+## Vue 多 html 页面（非路由）
+
+[vue如何实现多页面应用网页](https://blog.csdn.net/JackieDYH/article/details/132849400)
