@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>回到顶部</title>
+  <style>
+    /* 设置body高度为 3000px，页面就有滚动条显示啦 */
+    body {
+      height: 3000px;
+    }
+
+    /* 回到顶部 */
+    .backTop {
+      /* 固定定位 */
+      position: fixed;
+      bottom: 250px;
+      right: 0;
+      margin-right: 20px;
+      z-index: 999;
+      /* 回到顶部样式 */
+      width: 35px;
+      height: 35px;
+      background-color: deepskyblue;
+      /* 字体在元素中水平垂直居中 */
+      line-height: 35px;
+      text-align: center;
+      font-size: 14px;
+      color: white;
+      /* 设置圆角 */
+      border-radius: 50%;
+      /* 设置过渡效果 */
+      transition: all linear 0.5s;
+      cursor: pointer;
+      /* 隐藏 透明度为0 */
+      opacity: 0;
+    }
+  </style>
+</head>
+
+<body>
+  <div><a href="https://blog.csdn.net/m0_55392280/article/details/134363273">轻盈回顶：教你轻松实现网页返回顶部功能</a></div>
+  <div class="backTop" id="backTop">Top</div>
+  <script>
+    /* 
+    需求：当页面滚动大于300像素，就显示回到顶部按钮
+    */
+    // 获取回到顶部元素
+    const backTop = document.querySelector('#backTop')
+    // L2 事件监听
+    // 给页面添加 滚动事件
+    window.addEventListener('scroll', function () {
+      // 检测页面滚动的头部距离属性
+      const n = document.documentElement.scrollTop
+      backTop.style.opacity = n >= 300 ? 1 : 0
+    })
+    // 需求：点击返回按钮，页面会返回顶部
+    // 给回到顶部元素添加 点击事件
+    backTop.addEventListener('click', function () {
+      document.documentElement.scrollTop = 0
+    })
+  </script>
+</body>
+
+</html>

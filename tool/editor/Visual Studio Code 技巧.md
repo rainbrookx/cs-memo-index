@@ -14,6 +14,16 @@ Visual Studio Code，可以安装丰富多样的插件。
 
 [重复代码的克星，高效工具 VSCode snippets 的使用指南](https://www.cnblogs.com/xiao2shiqi/p/14466133.html)
 
+## 缓存和插件本地路径
+
+```txt
+默认缓存目录 ：
+C:\Users\youname\AppData\Roaming\Code
+
+默认插件目录 : 
+C:\Users\youname\.vscode\extensions
+```
+
 ## VS Code 有意思的命令
 
 ### 导出已安装的插件名称

@@ -15,3 +15,7 @@
 [HTML5 WebSocket](https://www.runoob.com/html/html5-websocket.html)
 
 [HTML(5) 代码规范](https://www.runoob.com/html/html5-syntax.html)
+
+[HTML5新特性之标签使用：header、nav、aside、main、footer......](https://blog.csdn.net/H_W_1212/article/details/104554528)
+
+[HTML5中的lang属性，zh-CN还是zh-Hans？](https://www.cnblogs.com/cndavidwang/p/11790153.html)

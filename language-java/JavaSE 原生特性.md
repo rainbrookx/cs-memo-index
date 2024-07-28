@@ -81,6 +81,8 @@ List<Integer> list1 = Arrays.stream(data).boxed().collect(Collectors.toList());
 
 [【Java 基础篇】Java 模块化详解](https://blog.csdn.net/qq_21484461/article/details/131421855)
 
+[【Java 模块系统】module-info 模块描述符](https://blog.csdn.net/qq_60914456/article/details/126206715)
+
 ## Java Properties
 
 Properties 读取的文件的后缀不需要是 properties，甚至可以不要后缀，没有转义的空格是不会被读取的 [Class Properties](https://docs.oracle.com/en/java/javase/22/docs/api/java.base/java/util/Properties.html)

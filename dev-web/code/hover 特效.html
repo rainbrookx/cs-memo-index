@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hover 特效</title>
+    <style>
+        hr {
+            margin: 20px 0;
+        }
+
+        .item {
+            position: relative;
+            display: inline-block;
+            border: 1px solid red;
+            padding: 5px 10px;
+            font-size: 1.2em;
+        }
+    
+        .item::after {
+            content: "";
+            position: absolute;
+            left: 100%;
+            bottom: 0;
+            width: 0;
+            border-bottom: 5px solid #1f6ee4;
+            transition: width 350ms, left 350ms;
+        }
+    
+        .item:hover::after {
+            left: 0;
+            width: 100%;
+            transition: width 350ms;
+        }
+    </style>
+</head>
+<body>
+    <h3>hover 时，下边框从左往右伸长，取消 hover 时，下边框从左往右缩短</h3>
+    <ul>
+        <li><a href="https://blog.csdn.net/weixin_43180359/article/details/106278987">纯CSS做hover离开后的平滑过渡动画</a></li>
+    </ul>
+    <span class="item">测试测试测试</span>
+    <hr>
+</body>
+</html>

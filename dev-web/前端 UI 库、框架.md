@@ -95,6 +95,12 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - [集成 Pjax 实现网站无刷新加载](https://liuyib.github.io/2019/09/24/use-pjax-to-your-site/)
 - MoOx/pjax、defunkt/jquery-pjax【依赖于 jQuery】
 
+## 图片轮播、幻灯片
+
+> Image Gallery
+
+- swiperjs：<https://swiperjs.com/>、<https://swiper.com.cn/>
+
 ## 其他
 
 - jQuery
@@ -110,7 +116,6 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - Knockout
 - Polymer
 - Riot
-- swiperjs：<https://swiperjs.com/>、<https://swiper.com.cn/>
 - [prototype.js](http://prototypejs.org/)
 - [MooTools](https://mootools.net/)
 - [Handlebars](https://handlebarsjs.com/)、[中文站](https://www.handlebarsjs.cn/)

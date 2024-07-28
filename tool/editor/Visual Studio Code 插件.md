@@ -66,8 +66,12 @@ File Utils插件,可以方便快捷的来创建、复制、移动、重命名文
 
 ## 实时更新 HTML
 
-Live Preview
-Live Server
+- Live Preview
+- Live Server
+
+## 插件管理
+
+- Extension Manager
 
 ## Markdown 转变成 PPT（HTTP模式）
 
@@ -78,3 +82,8 @@ Live Server
 [让你的 VSCode 文件图标更好看的10个文件图标主题](https://juejin.cn/post/7247569496696389691)
 
 [10款VS Code插件神器，第7款超级实用！](https://zhuanlan.zhihu.com/p/111004160)
+
+## 其他
+
+- publisher:"Jun Han"，这个作者的很多插件很好用
+- techer.open-in-browser
