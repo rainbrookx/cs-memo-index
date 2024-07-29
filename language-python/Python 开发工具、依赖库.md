@@ -8,6 +8,12 @@
 
 ## 环境管理工具
 
+- conda
+- venv
+- virtualenv
+- pipenv
+- [pixi](https://pixi.sh/)、[prefix.dev](https://prefix.dev/)：pixi supports Python, R, C/C++, Rust, Ruby, and many other languages.
+
 [可能是最全的 Python 环境管理工具对比](https://zhuanlan.zhihu.com/p/681222081)
 
 [【Python】Python创建虚拟环境的三种方式](https://blog.csdn.net/ARPOSPF/article/details/113616988)
