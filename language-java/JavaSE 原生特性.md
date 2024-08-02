@@ -43,6 +43,12 @@ List<Integer> list1 = Arrays.stream(data).boxed().collect(Collectors.toList());
 
 [java保留两位小数4种方法](https://www.cnblogs.com/Renyi-Fan/p/7643764.html)
 
+## Java BigDecimal
+
+[聊一聊BigDecimal使用时的陷阱](https://mp.weixin.qq.com/s?__biz=MzkyNzYzMTY0MA==&mid=2247483869&idx=1&sn=0313a7d9bfae7c636031a3aded4a3263)
+
+[争论不休的一个话题：金额到底是用Long还是BigDecimal？](https://www.cnblogs.com/coderacademy/p/18142867)
+
 ## Java 类路径（classpath）
 
 [Java获取类路径的方式](https://blog.csdn.net/An1090239782/article/details/82590011)
