@@ -71,7 +71,7 @@ File Utils插件,可以方便快捷的来创建、复制、移动、重命名文
 
 ## 插件管理
 
-- Extension Manager
+- Extension Manager：创建自己的扩展包。在切换不同语言时，只需要启用/禁用扩展包，就可以一键控制不同语言的相关扩展程序。 [如何解决vscode插件过多，自动加载相应插件的问题？](https://segmentfault.com/q/1010000016731279)
 
 ## Markdown 转变成 PPT（HTTP模式）
 

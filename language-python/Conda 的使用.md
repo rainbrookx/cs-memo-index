@@ -14,6 +14,17 @@
 conda create --name py39_pure python=3.9 --no-default-packages
 ```
 
+## 列出环境与删除
+
+```shell
+# 列出环境
+conda env list
+
+# 例如删除 env_001
+conda remove -n env_001 --all
+# Everything found within the environment (C:\Users\你的用户名\.conda\envs\env_001), including any conda environment configurations and any non-conda files, will be deleted. Do you wish to continue?【这是第二个对话框，选择 y ，确认删除，这样会把所有文件删除】
+```
+
 ## Conda 会默认启动 base 环境
 
 这是一个坑，特别是用 Python 自带的 `venv` 时候，在 PowerShell 的时候，提示符前面有个 `(base)`

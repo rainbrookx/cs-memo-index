@@ -27,3 +27,11 @@ net start winnat
 
 pause
 ```
+
+## 解决失效的 Global Liberal 无法删除
+
+> 找配置文件的思路，在 IDEA 中编辑配置，然后通过文件的修改时间判断哪个文件是配置文件
+
+```txt
+C:\Users\%username%\AppData\Roaming\JetBrains\IntelliJIdea2023.2\options\applicationLibraries.xml
+```

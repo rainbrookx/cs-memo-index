@@ -30,6 +30,22 @@
 - Spyder
 - PandasGUI
 
+## 打包工具
+
+- setuptools
+- wheel
+
+```shell
+# setuptools
+python setup.py sdist
+python setup.py bdist_egg
+
+
+# wheel 和 setuptools
+python setup.py bdist_wheel
+
+```
+
 ## 小工具
 
 - mypy：检查 Python 代码是否规范
