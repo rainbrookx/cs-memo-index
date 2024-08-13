@@ -11,3 +11,7 @@
 【官网】[Java HTTP Client](https://openjdk.org/groups/net/httpclient/)
 
 [HTTP客户端工具该选哪个？进来看](https://juejin.cn/post/7034701930286809095)
+
+## HTTP 服务器
+
+[Is it okay to use com.sun.net.httpserver.HttpServer?](https://dev.to/thokuest/is-it-okay-to-use-comsunnethttpserverhttpserver-24il)

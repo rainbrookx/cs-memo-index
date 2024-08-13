@@ -13,3 +13,5 @@
 - HTMLRunExe 工具
 - hta文件（html applilcation）
 - NW.js（node-webkit）
+
+[干货 | 10分钟玩转PWA](https://segmentfault.com/a/1190000016161177)

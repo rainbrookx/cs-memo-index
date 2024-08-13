@@ -4,15 +4,15 @@
 
 ---
 
-**入门**：[《【狂神说Java】Git最新教程通俗易懂》](https://www.bilibili.com/video/BV1FE411P7B3/)
+**入门**：[【狂神说Java】Git最新教程通俗易懂](https://www.bilibili.com/video/BV1FE411P7B3/)
 
 **巩固、精进**：
 
-[《Learn Git Branching》](https://learngitbranching.js.org/?locale=zh_CN)
+[Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
 
-[《Learn Git Branching》（中文版）](https://oschina.gitee.io/learn-git-branching/)
+[Learn Git Branching（中文版）](https://oschina.gitee.io/learn-git-branching/)
 
-**精通**：[《Git官网-文档》](https://git-scm.com)
+**精通**：[Git官网-文档](https://git-scm.com)
 
 ---
 
@@ -24,6 +24,6 @@
 
 ## 其它资源
 
-- （L同学提供）[《团队开发神器 Git/GitHub 自学指南，几分钟掌握学习重点》](https://www.bilibili.com/video/BV1KZ4y1e7cG/)
+- （L同学提供）[团队开发神器 Git/GitHub 自学指南，几分钟掌握学习重点](https://www.bilibili.com/video/BV1KZ4y1e7cG/)
 - 【Git 大全】 <https://gitee.com/all-about-git>
 - 【Pro Git（中文版）】 <https://gitee.com/progit/>

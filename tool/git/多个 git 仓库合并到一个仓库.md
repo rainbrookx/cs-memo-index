@@ -3,16 +3,22 @@
 ## Step 1
 
 创建一个文件夹，作为新项目的文件夹
+
+```shell
 git init
+```
+
 除了 `.git` 文件夹，不要有其他内容，避免麻烦
 
 ## Step 2
 
 > 注意 `remote` 可以是远程的，也可以是本地的，路径用正斜杠（除号），不能用发斜杠，路径最好用双引号括起来
 
+```shell
 git remote add bookstore "D:/AppDemo/demo-old/bookstore"
 git fetch bookstore
 git merge bookstore/master --allow-unrelated-histories
+```
 
 ## Step 3
 
