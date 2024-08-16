@@ -7,3 +7,5 @@
 [Vue 服务端渲染 (SSR)](https://cn.vuejs.org/guide/scaling-up/ssr.html)
 
 [为什么Vue在国内这么受欢迎？](https://zhuanlan.zhihu.com/p/150256638)
+
+[细说后端模板渲染、客户端渲染、node 中间层、服务器端渲染（ssr）](https://segmentfault.com/a/1190000016704384)

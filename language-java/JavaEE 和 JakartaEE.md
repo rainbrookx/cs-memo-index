@@ -14,6 +14,10 @@
 
 [@WebServlet注解（Servlet注解）](https://c.biancheng.net/servlet2/webservlet.html)
 
+## 服务器
+
+[weblogic 和 tomcat 的区别和联系](https://blog.csdn.net/xhf852963/article/details/117336709)
+
 ## Servlet
 
 [Servlet 文件上传](https://www.runoob.com/servlet/servlet-file-uploading.html)
