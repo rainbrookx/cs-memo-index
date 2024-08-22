@@ -1,41 +1,45 @@
-# JavaSE 原生特性
+# JavaSE 特性
+
+## 静态导入（Static Import）
+
+```java
+import static java.lang.Math.*;
+```
+
+> Static import makes the program unreadable and unmaintainable if you are reusing this feature, especially in large codebases or projects with multiple developers.
+
+## 修饰符
+
+- 访问权限修饰符：default、private、public、protected
+- 非访问修饰符：
+  - static：用来创建类方法和类变量。
+  - final：用来修饰类、方法和变量，final 修饰的类不能够被继承，修饰的方法不能被继承类重新定义，修饰的变量为常量，是不可修改的。
+  - abstract：用来创建抽象类和抽象方法。
+  - synchronized：用于多线程的同步。
+  - volatile：修饰的成员变量在每次被线程访问时，都强制从共享内存中重新读取该成员变量的值。而且，当成员变量发生变化时，会强制线程将变化值回写到共享内存。这样在任何时刻，两个不同的线程总是看到某个成员变量的同一个值。
+  - transient：序列化的对象包含被 transient 修饰的实例变量时，Java 虚拟机(JVM)跳过该特定的变量。
+
+[Java 修饰符](https://www.runoob.com/java/java-modifier-types.html)
+
+## 泛型
+
+```text
+泛型标记符（这只是通常的习惯）
+E Element 集合元素
+T Type Java类
+K Key 键
+V Value 值
+N Number 数值类型
+？ 表示不确定的Java类型
+```
 
 ## JAR
 
 [java 读取jar包中资源文件 获取jar包中的资源文件](https://blog.51cto.com/u_16213630/7127017)
 
-## Java Stream
-
-[深入 Java Stream：高级流操作和技巧](https://blog.csdn.net/Mrxiao_bo/article/details/134154466)
-
-[告别 For循环！用 Java Stream优雅处理集合](https://zhuanlan.zhihu.com/p/141588699)
-
-[java8 .stream().anyMatch / allMatch / noneMatch用法](https://blog.csdn.net/weixin_44958006/article/details/108112064)
-
-[Stream之Collectors.groupingBy（分组）的使用](https://blog.csdn.net/m0_46434219/article/details/109068536)
-
-[java8 Stream 列表分组、分区，按列表元素的某个属性分组](https://blog.csdn.net/qq_31815507/article/details/111560690)
-
-[Java8 Stream groupingBy对List进行分组](https://blog.csdn.net/weixin_41835612/article/details/83687088)
-
-[Java8 Stream（11）List转Map](https://blog.csdn.net/winterking3/article/details/116457573)
-
-[Java8 Stream（8）List集合统计 求和 最大值 最小值 平均值](https://blog.csdn.net/winterking3/article/details/116288311)
-
-[Java中List、Integer[]、int[] 的相互转换](https://zhuanlan.zhihu.com/p/196698839)
-
-```java
-int[] data = {4, 5, 3, 6, 2, 5, 1};
-List<Integer> list1 = Arrays.stream(data).boxed().collect(Collectors.toList());
-```
-
 ## Java 函数式接口 @FunctionalInterface
 
 [JDK8新特性：函数式接口@FunctionalInterface的使用说明](https://blog.csdn.net/aitangyong/article/details/54137067)
-
-## Java 枚举
-
-[Java 枚举(enum) 详解7种常见的用法](https://blog.csdn.net/qq_27093465/article/details/52180865)
 
 ## Java 数字
 
@@ -96,3 +100,5 @@ Properties 读取的文件的后缀不需要是 properties，甚至可以不要�
 ## Java 的奇葩
 
 [在java中为什么变量1000 == 1000 返回false，但是100==100返回true？](https://www.zhihu.com/question/660482096)
+
+[Java 10大骚操作写法，亮瞎boss的双眼！](https://blog.csdn.net/Java0258/article/details/106445886)

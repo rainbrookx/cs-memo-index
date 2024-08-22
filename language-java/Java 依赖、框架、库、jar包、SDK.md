@@ -38,6 +38,10 @@
 - `Apache Commons DbUtils`：[DBUtils 教程](https://www.w3ccoo.com/apache_dbutils/index.html)
 - `Mycat 2`：<http://www.mycat.org.cn/>
 
+## 线程
+
+- 线程池：Hippo4j
+
 ## GUI
 
 - `swing`：Java 自带的
