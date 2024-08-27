@@ -11,3 +11,7 @@
 [Go 更强的代码洁癖，可以把 gofmt 给换了！](https://segmentfault.com/a/1190000044645141)
 
 > 更强的 Go 代码格式化：**gofumpt**
+
+## Go 安装
+
+[go装包、查看包、删除包，以及命令行删除后仍然存在该包的解决办法](https://blog.csdn.net/zrz233/article/details/134479645)

@@ -102,3 +102,7 @@ Properties 读取的文件的后缀不需要是 properties，甚至可以不要�
 [在java中为什么变量1000 == 1000 返回false，但是100==100返回true？](https://www.zhihu.com/question/660482096)
 
 [Java 10大骚操作写法，亮瞎boss的双眼！](https://blog.csdn.net/Java0258/article/details/106445886)
+
+## 线程与线程安全
+
+[怎么判断一个Java类是否是线程安全？有那些角度？](https://blog.csdn.net/weixin_43975771/article/details/115344035)

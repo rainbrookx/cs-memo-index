@@ -21,6 +21,8 @@
 
 - Corepack：是管理 `包管理工具` 的工具，也就是管理 npm、yarn、pnpm 版本的，相当于 Python 的虚拟环境
 
+- [介绍 Turbo：比 Yarn 和 NPM 快 5 倍，可以在本地浏览器中运行](https://juejin.cn/post/6844903535117598733)
+
 ## 多版本 Node.js
 
 [Windows/macOS/Linux上安装Node.js，并使用NVM管理多版本Node.js](https://www.mintimate.cn/2021/07/26/nvmNode/)、[B 站配套视频](https://www.bilibili.com/video/BV12h411z7Kq/)

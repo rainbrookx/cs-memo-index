@@ -12,6 +12,8 @@
 
 [Vue3+vite多个html页面配置（多入口文件），以及单个页面路由配置，宝妈级教学，值得一看](https://blog.csdn.net/weixin_63513903/article/details/124571449)
 
+[Vite 与 Vue Cli 对比 - 尤雨溪: Vite 会取代 vue-cli 吗？](https://segmentfault.com/a/1190000041875206)
+
 ## Vue 开发规范（最佳实践）
 
 [Style Guide](https://vuejs.org/style-guide/)
