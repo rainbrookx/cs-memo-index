@@ -3,6 +3,7 @@
 ```bash
 npm run dev     # 启动 vue/vite 服务器（静态网站）
 npx serve       # 启动通用的静态网站服务器
+npx http-server /path/to/project -o -p 9999
 ```
 
 ## 包管理

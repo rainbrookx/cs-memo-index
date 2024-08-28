@@ -15,3 +15,7 @@
 ## Go 安装
 
 [go装包、查看包、删除包，以及命令行删除后仍然存在该包的解决办法](https://blog.csdn.net/zrz233/article/details/134479645)
+
+## Go 语法
+
+[Go语言之旅：Struct Tag的介绍及用法](https://cloud.tencent.com/developer/article/1496468)
