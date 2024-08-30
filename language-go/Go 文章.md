@@ -19,3 +19,7 @@
 ## Go 语法
 
 [Go语言之旅：Struct Tag的介绍及用法](https://cloud.tencent.com/developer/article/1496468)
+
+[Golang深入浅出之-结构体标签（Tags）：JSON序列化与反射应用](https://cloud.tencent.com/developer/article/2412740)
+
+[How To Use Struct Tags in Go](https://www.digitalocean.com/community/tutorials/how-to-use-struct-tags-in-go)

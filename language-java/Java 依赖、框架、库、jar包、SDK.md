@@ -37,6 +37,7 @@
 - 数据库连接池：C3P0、DBCP、Druid（阿里巴巴）、Hikari
 - `Apache Commons DbUtils`：[DBUtils 教程](https://www.w3ccoo.com/apache_dbutils/index.html)
 - `Mycat 2`：<http://www.mycat.org.cn/>
+- [Java ORM 哪家强？10个ORM框架测试对比与选型建议](https://segmentfault.com/a/1190000044870584)
 
 ## 线程
 
