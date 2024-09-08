@@ -33,13 +33,13 @@ N Number 数值类型
 ？ 表示不确定的Java类型
 ```
 
+## 反射和注解
+
+[一文教你搞懂反射和注解！！！（入门级/简单）](https://blog.csdn.net/weixin_44226752/article/details/109344542)
+
 ## JAR
 
 [java 读取jar包中资源文件 获取jar包中的资源文件](https://blog.51cto.com/u_16213630/7127017)
-
-## Java 函数式接口 @FunctionalInterface
-
-[JDK8新特性：函数式接口@FunctionalInterface的使用说明](https://blog.csdn.net/aitangyong/article/details/54137067)
 
 ## Java 数字
 

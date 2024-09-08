@@ -8,6 +8,12 @@
 - Tornado
 - FastAPI
 
+## ORM
+
+- SQLAlchemy
+- Tortoise ORM
+- SQLModel
+
 ## ASGI server
 
 - Uvicorn
@@ -41,7 +47,11 @@
 - Watchdog
 - greenlet
 
-
 ## Django 相关
 
 - Django-ORM
+
+## 其他
+
+- Typer
+- Asyncer
