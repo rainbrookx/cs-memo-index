@@ -58,6 +58,16 @@
 
 （Z同学提供）为什么你的 z-index 又不管用了——最通俗易懂的 z-index 的使用讲解<https://zhuanlan.zhihu.com/p/340371083>
 
+## CSS 嵌套
+
+[Using CSS nesting](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting)
+
+[CSS 原生嵌套语法来了！](https://zhuanlan.zhihu.com/p/603168988)
+
+## CSS 级联层
+
+[前端开发如何更好的避免样式冲突？级联层(CSS@layer)](https://segmentfault.com/a/1190000043838863)
+
 ## 技巧
 
 [input输入字体时抖动](https://blog.csdn.net/weixin_45895806/article/details/112581061)
@@ -69,3 +79,12 @@
 [[译] 使用 CSS object-fit 属性裁剪图片](https://juejin.cn/post/6844904053210628104)
 
 [解决滚动条出现挤压页面宽度](https://blog.csdn.net/Mean_/article/details/90258307)
+
+[(CSS 中)display的32种写法](https://segmentfault.com/a/1190000012833458)
+
+## 换行符/空格间隙问题
+
+[display:inline-block元素之间空隙的产生原因和解决办法](https://blog.csdn.net/qq_32614411/article/details/82223624)
+
+[去除inline-block元素间间距的N种方法](https://www.zhangxinxu.com/wordpress/2012/04/inline-block-space-remove-%E5%8E%BB%E9%99%A4%E9%97%B4%E8%B7%9D/)
+

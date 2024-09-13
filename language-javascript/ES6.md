@@ -11,3 +11,5 @@
 [CommonJS 和 ES6 Module：一场模块规范的对决（上）](https://developer.aliyun.com/article/1428979)
 
 [前端模块化详解(完整版)](https://segmentfault.com/a/1190000017466120)
+
+[最全的—— ES6有哪些新特性？](https://blog.csdn.net/ZLJ_999/article/details/124122540)

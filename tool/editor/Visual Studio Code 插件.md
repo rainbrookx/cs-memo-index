@@ -85,5 +85,6 @@ File Utils插件,可以方便快捷的来创建、复制、移动、重命名文
 
 ## 其他
 
-- publisher:"Jun Han"，这个作者的很多插件很好用
+- publisher："Jun Han"，这个作者的很多插件很好用
 - techer.open-in-browser
+- CodeSnap：代码截图

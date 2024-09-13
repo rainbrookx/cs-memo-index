@@ -50,6 +50,7 @@
 ## Django 相关
 
 - Django-ORM
+- Django Ninja
 
 ## 其他
 
