@@ -34,6 +34,19 @@
 
 [JavaScript 闭包](https://www.runoob.com/js/js-function-closures.html)
 
+```js
+var add = (function () {
+    var counter = 0;
+    return function () {return counter += 1;}
+})();
+ 
+add();
+add();
+add();
+ 
+// 计数器为 3
+```
+
 [JavaScript HTML DOM EventListener](https://www.runoob.com/js/js-htmldom-eventlistener.html)
 
 [JavaScript prototype（原型对象）](https://www.runoob.com/js/js-object-prototype.html)
