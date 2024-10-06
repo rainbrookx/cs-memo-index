@@ -106,3 +106,7 @@ Properties 读取的文件的后缀不需要是 properties，甚至可以不要�
 ## 线程与线程安全
 
 [怎么判断一个Java类是否是线程安全？有那些角度？](https://blog.csdn.net/weixin_43975771/article/details/115344035)
+
+## 虚拟线程
+
+[两万字的Java 虚拟线程终极指南](https://juejin.cn/post/7282666367236276224)

@@ -30,6 +30,14 @@
 
 [springboot由3.1.5升级到3.2.0 报Invalid value type for attribute ‘factoryBeanObjectType‘: java.lang.String](https://blog.csdn.net/u011410254/article/details/134611035)
 
+## 创建 Bean、IOC/DI
+
+[Spring框架|通过工厂创建Bean的三种方式](https://blog.csdn.net/weixin_43691058/article/details/105010733)
+
+[扯一把 Spring 的三种注入方式，到底哪种注入方式最佳？](https://blog.csdn.net/u012702547/article/details/120905964)
+
+[这6种 Spring 依赖注入方式，你都会吗？](https://developer.aliyun.com/article/1348301)
+
 ## Spring 数据库
 
 [spring: 使用嵌入式数据源 EmbeddedDatabaseBuilder](https://blog.csdn.net/weixin_33975951/article/details/85965345)
@@ -135,3 +143,5 @@
 [Converting a Spring Boot JAR Application to a WAR](https://spring.io/guides/gs/convert-jar-to-war)
 
 [springMvc的web.xml中的classpath指项目中的哪个路径](https://blog.csdn.net/elice_/article/details/87857966)
+
+[Model、ModelMap和ModelAndView的使用详解](https://zhuanlan.zhihu.com/p/424097568)

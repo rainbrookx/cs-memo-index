@@ -1,10 +1,13 @@
 # CSS
 
-## CSS 优先级
+## CSS 术语
 
-[css的优先级 和 权重](https://www.cnblogs.com/cnblogs-jcy/p/8574177.html)
-
-[深入理解css优先级](https://www.cnblogs.com/starof/p/4387525.html)
+- 优先级、权重
+- `inherit`、`initial`、`unset`、`revert`
+  - `inherit`（继承）：从父元素传递值
+  - `initial`（初始）：重置为默认值（将 CSS 属性重置为 CSS 规范中指定的初始值）
+  - `unset`（取消设置）：全面重置（它结合了 `inherit` 和 `initial` 关键字的功能）
+  - `revert`（恢复）：回归至浏览器样式
 
 ## CSS 浮动
 
@@ -29,6 +32,14 @@
 ## CSS 3D正方体旋转透视
 
 [【CSS3进阶】酷炫的3D旋转透视](https://www.cnblogs.com/coco1s/p/5414153.html)
+
+## CSS 制作菜单
+
+[CSS - 鼠标移入悬停显示下拉菜单（导航栏鼠标经过 hover 时出现二级菜单）](https://blog.csdn.net/weixin_44198965/article/details/126936549)
+
+[vue实现鼠标移入动态展示导航栏二级菜单（异步）](https://blog.csdn.net/yu99215/article/details/138189038)
+
+[CSS 下拉菜单](https://www.runoob.com/css/css-dropdowns.html)
 
 ## 布局综合知识
 
@@ -68,11 +79,15 @@
 
 [前端开发如何更好的避免样式冲突？级联层(CSS@layer)](https://segmentfault.com/a/1190000043838863)
 
+## CSS 盒子塌陷、合并
+
+[CSS中外边距（margin）塌陷和合并的问题（初学者必看）](https://zhuanlan.zhihu.com/p/337857229)
+
+[CSS盒子塌陷的5种解决方法](https://blog.csdn.net/kirinlau/article/details/73505903)
+
 ## 技巧
 
 [input输入字体时抖动](https://blog.csdn.net/weixin_45895806/article/details/112581061)
-
-[CSS盒子塌陷的5种解决方法](https://blog.csdn.net/kirinlau/article/details/73505903)
 
 [CSS 隐藏元素的八种方法](https://juejin.cn/post/6844903456545701901)
 
@@ -88,6 +103,10 @@
 
 [去除inline-block元素间间距的N种方法](https://www.zhangxinxu.com/wordpress/2012/04/inline-block-space-remove-%E5%8E%BB%E9%99%A4%E9%97%B4%E8%B7%9D/)
 
-## link 的 LVHA 原则
+## CSS 规范
+
+LVHA 原则
 
 > LVHA-order: :link — :visited — :hover — :active [via. MDN - CSS - :link](https://developer.mozilla.org/en-US/docs/Web/CSS/:link)
+
+[CSS 代码的书写规范、顺序](https://cloud.tencent.com/developer/article/1025155)

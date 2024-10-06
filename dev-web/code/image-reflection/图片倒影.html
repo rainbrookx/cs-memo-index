@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>图片倒影</title>
+  <style>
+    div {
+      margin: 50px auto;
+      width: 200px;
+      height: 200px;
+      background-image: url(./garfield.jpg);
+      position: relative;
+    }
+
+    div:before {
+      content: "";
+      position: absolute;
+      top: 100%;
+      left: 0;
+
+      width: inherit;
+      height: inherit;
+      background-image: inherit;
+      transform: rotateX(180deg);
+    }
+
+    div:after {
+      content: "";
+      position: absolute;
+      top: 100%;
+      left: 0;
+
+      width: inherit;
+      height: inherit;
+      background: linear-gradient(0deg, rgba(255, 255, 255, 1)0%, rgba(255, 255, 255, 0)100%);
+      z-index: 2;
+    }
+  </style>
+</head>
+
+<body>
+  <p>参考：<a href="https://segmentfault.com/a/1190000040385326">写了这么多年 CSS，initial 和 inherit 以及 unset 和 revert 还傻傻分不清楚？</a></p>
+  <div></div>
+</body>
+
+</html>
