@@ -8,6 +8,7 @@
   - `initial`（初始）：重置为默认值（将 CSS 属性重置为 CSS 规范中指定的初始值）
   - `unset`（取消设置）：全面重置（它结合了 `inherit` 和 `initial` 关键字的功能）
   - `revert`（恢复）：回归至浏览器样式
+  - 精灵图、通栏、版心、侧导航、banner
 
 ## CSS 浮动
 
@@ -40,6 +41,8 @@
 [vue实现鼠标移入动态展示导航栏二级菜单（异步）](https://blog.csdn.net/yu99215/article/details/138189038)
 
 [CSS 下拉菜单](https://www.runoob.com/css/css-dropdowns.html)
+
+## CSS 气泡框
 
 ## 布局综合知识
 
@@ -85,6 +88,17 @@
 
 [CSS盒子塌陷的5种解决方法](https://blog.csdn.net/kirinlau/article/details/73505903)
 
+【不推荐】
+
+- 给父元素设置外边框（border）或者内边距（padding）(不建议)
+
+【推荐】 - Block formatting context
+
+- 子元素或者父元素的float不为none
+- 子元素或者父元素的position不为relative或static
+- 父元素的overflow为auto或scroll或hidden
+- 父元素的display的值为table-cell或inline-block
+
 ## 技巧
 
 [input输入字体时抖动](https://blog.csdn.net/weixin_45895806/article/details/112581061)
@@ -105,8 +119,10 @@
 
 ## CSS 规范
 
+[CSS 代码的书写规范、顺序](https://cloud.tencent.com/developer/article/1025155)
+
 LVHA 原则
 
 > LVHA-order: :link — :visited — :hover — :active [via. MDN - CSS - :link](https://developer.mozilla.org/en-US/docs/Web/CSS/:link)
 
-[CSS 代码的书写规范、顺序](https://cloud.tencent.com/developer/article/1025155)
+BFC：Block formatting context，区块格式化上下文，用于解决塌陷问题、内容溢出的最好方案，也是 CSS 风格[Block formatting context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_display/Block_formatting_context)

@@ -31,6 +31,7 @@
 - DockerCompose：部署微服务集群
 - Docker 私有仓库（joxit/docker-registry-ui:static）
 - RabbitMQ
+- NSQ 消息队列
 - SpringAMQP
 - Elasticsearch
 - Elastic Stack (ELK)：Elasticsearch、Kibana、Logstash、Beats

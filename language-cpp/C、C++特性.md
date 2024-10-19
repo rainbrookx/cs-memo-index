@@ -20,3 +20,7 @@
 ## 其他
 
 [把C++当脚本语言写！](https://www.cnblogs.com/index-html/archive/2012/07/28/cppscript.html)
+
+## C++ 11 特性
+
+C++11 raw string literal

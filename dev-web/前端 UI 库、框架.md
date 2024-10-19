@@ -45,7 +45,7 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - [iView UI | View UI](https://www.iviewui.com)
 - [Layui](https://layui.itze.cn)
 - ElementUI
-- vant UI
+- [vant UI](https://vant-ui.github.io/vant/#/zh-CN) 适用于 Vue3 开发移动端
 - Vant Weapp
 - Flutter
 - Quasar Framework
