@@ -145,3 +145,5 @@
 [springMvc的web.xml中的classpath指项目中的哪个路径](https://blog.csdn.net/elice_/article/details/87857966)
 
 [Model、ModelMap和ModelAndView的使用详解](https://zhuanlan.zhihu.com/p/424097568)
+
+[SpringBoot2.x基础篇：将静态资源打包为WebJars](https://zhuanlan.zhihu.com/p/156053517)

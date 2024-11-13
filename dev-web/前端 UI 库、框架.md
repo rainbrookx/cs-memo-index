@@ -101,6 +101,10 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 
 - swiperjs：<https://swiperjs.com/>、<https://swiper.com.cn/>
 
+## 富文本
+
+- wangEditor：<https://www.wangeditor.com/>
+
 ## 其他
 
 - jQuery
@@ -122,6 +126,9 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - [animate.css](https://animate.style/)
 - [Velocity.js](http://velocityjs.org/)
 - [Lodash](https://lodash.com/)
+- Day.js 解析、验证、操作和显示日期和时间
+- nodemon
+- form-serialize.js `const userObj = serialize(userForm, { hash: true, empty: true })`
 - [谁在偷看我代码？--- devtools-detector](https://juejin.cn/post/6986957833929490445)
 
 [JavaScript 库](https://www.runoob.com/js/js-libraries.html)
