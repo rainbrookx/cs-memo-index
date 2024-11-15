@@ -33,3 +33,9 @@ JavaScript 的 hash：location.hash()
 ## Vue 多 html 页面（非路由）
 
 [vue如何实现多页面应用网页](https://blog.csdn.net/JackieDYH/article/details/132849400)
+
+## Vue 笔记
+
+[vue学习笔记（超详细）](https://blog.csdn.net/fmk1023/article/details/111381876)
+
+[Vue学习笔记（尚硅谷天禹老师）](https://blog.csdn.net/weixin_49496875/article/details/126860042)

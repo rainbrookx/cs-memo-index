@@ -8,6 +8,7 @@
 ## 有趣的库
 
 - GitPython
+- [uv](https://docs.astral.sh/uv/) An extremely fast Python package and project manager, written in Rust.
 
 ## 文章
 
