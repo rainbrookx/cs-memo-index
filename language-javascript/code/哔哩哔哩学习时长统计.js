@@ -13,7 +13,7 @@ timeBetween(start, end)，区间左闭右闭，
 是视频的P1、P2，所以从1开始
 */
 function timeBetween(start, end) {
-  let arr = document.querySelectorAll('.list-box .duration');
+  let arr = document.querySelectorAll('.video-pod__list .duration');
 
   let timeH = 0;
   let timeM = 0;
