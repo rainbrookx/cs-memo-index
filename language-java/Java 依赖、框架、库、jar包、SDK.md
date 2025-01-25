@@ -30,8 +30,6 @@
 - `LogBack`：实现`slf4j-api`接口规范的日志框架
 - `slf4j-api`：规范接口，Simple Logging Facade for Java
 
-## 邮箱
-
 ## 数据库
 
 - `MyBatis`：
@@ -72,7 +70,6 @@
 ## 其他
 
 - `PageHelper`：MyBatis 数据库查询分页插件
-- `JJWT`：JWT 令牌
 - `joda-time`
 
 ## HTTP

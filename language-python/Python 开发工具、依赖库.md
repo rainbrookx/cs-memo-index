@@ -59,6 +59,23 @@ python setup.py bdist_wheel
 - SciPy
 - NumPy
 
+## 二维码、条码
+
+- segno：<https://pypi.org/project/segno/>
+- qrcode：<https://pypi.org/project/qrcode/>
+
+## GUI
+
+- Tkinter
+- PySide
+- PyQt
+- NiceGUI
+
 ## 文章参考
 
 [Python 网络爬虫的常用库汇总（建议收藏）](https://blog.csdn.net/l01011_/article/details/133348896)
+
+## 有趣的库
+
+- GitPython
+- [uv](https://docs.astral.sh/uv/) An extremely fast Python package and project manager, written in Rust.
