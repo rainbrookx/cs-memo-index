@@ -10,7 +10,7 @@
 - Java Swing
 - JavaFX
 
-## Web
+## 后端
 
 - JavaEE、JakartaEE
 - JSP、Servlet
@@ -46,4 +46,5 @@
 
 ## 其他技术栈
 
-- Spring、Struts、Hibernate
+- SSH：Spring、Struts、Hibernate
+- SSM：Spring、SpringMVC、MyBatis

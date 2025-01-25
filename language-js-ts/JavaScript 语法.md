@@ -1,4 +1,33 @@
-# ES6
+# JavaScript 语法
+
+[JS.ORG](https://js.org/)
+
+## 匿名函数
+
+[JS 匿名函数——几种不同的调用方式(8种方法)](https://blog.csdn.net/weixin_44388523/article/details/86514627)
+
+## 模块化
+
+[聊聊什么是CommonJs和Es Module及它们的区别](https://zhuanlan.zhihu.com/p/356526196)
+
+## 闭包
+
+[JavaScript 闭包](https://www.runoob.com/js/js-function-closures.html)
+
+```js
+var add = (function () {
+    var counter = 0;
+    return function () {return counter += 1;}
+})();
+ 
+add();
+add();
+add();
+ 
+// 计数器为 3
+```
+
+## ES6
 
 [什么是ES6? 为什么要学习ES6？](https://blog.csdn.net/HHDTBJ/article/details/105627114)
 
