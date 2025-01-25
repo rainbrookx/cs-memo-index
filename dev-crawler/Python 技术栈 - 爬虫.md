@@ -31,6 +31,16 @@
 
 - xlwt：Excel 操作
 
+## chromedriver
+
+[chromedriver | npmmirror](https://registry.npmmirror.com/binary.html?path=chromedriver)
+
+[Chrome for Testing availability](https://googlechromelabs.github.io/chrome-for-testing/)
+
+## 验证码
+
+- ddddocr
+
 ## 爬虫框架
 
 - Scrapy：很强大的爬虫框架，可以满足简单的页面爬取（比如可以明确获知url pattern的情况）。用这个框架可以轻松爬下来如亚马逊商品信息之类的数据。但是对于稍微复杂一点的页面，如 weibo 的页面信息，这个框架就满足不了需求了。
@@ -39,3 +49,9 @@
 - newspaper：提取新闻、文章以及内容分析。
 - python-goose：java 写的文章提取工具。
 - cola：一个分布式爬虫框架。项目整体设计有点糟，模块间耦合度较高。
+
+## 集成工具
+
+[易采集EasySpider](https://www.easyspider.net/)
+
+[EasySpider | GitHub](https://github.com/NaiboWang/EasySpider)

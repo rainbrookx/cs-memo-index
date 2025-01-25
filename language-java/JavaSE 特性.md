@@ -33,25 +33,9 @@ N Number 数值类型
 ？ 表示不确定的Java类型
 ```
 
-## 反射和注解
-
-[一文教你搞懂反射和注解！！！（入门级/简单）](https://blog.csdn.net/weixin_44226752/article/details/109344542)
-
 ## JAR
 
 [java 读取jar包中资源文件 获取jar包中的资源文件](https://blog.51cto.com/u_16213630/7127017)
-
-## Java 数字
-
-[Java保留2位小数（六种方法）](https://blog.csdn.net/ay7788/article/details/125873135)
-
-[java保留两位小数4种方法](https://www.cnblogs.com/Renyi-Fan/p/7643764.html)
-
-## Java BigDecimal
-
-[聊一聊BigDecimal使用时的陷阱](https://mp.weixin.qq.com/s?__biz=MzkyNzYzMTY0MA==&mid=2247483869&idx=1&sn=0313a7d9bfae7c636031a3aded4a3263)
-
-[争论不休的一个话题：金额到底是用Long还是BigDecimal？](https://www.cnblogs.com/coderacademy/p/18142867)
 
 ## Java 类路径（classpath）
 
@@ -60,20 +44,6 @@ N Number 数值类型
 [Java如何获取当前的jar包路径以及如何读取jar包中的资源](https://www.cnblogs.com/zeciiii/p/4178824.html)
 
 [springboot项目中，读取 resources 目录下的文件的几种方式](https://zhuanlan.zhihu.com/p/618466727)
-
-## Java、MySQL 补全数据
-
-[统计从当月起前6个月的数据及数据补全的Java端做法和SQL做法](https://blog.csdn.net/weixin_40598838/article/details/110860881)
-
-[Java stream 结合业务 常用方法总结](https://blog.csdn.net/weixin_41934575/article/details/125169187)
-
-[java补全数据库查询统计数据缺失的日期](https://blog.csdn.net/qq_36881887/article/details/136060630)
-
-[统计年，月，日，java补充无的数据](https://blog.csdn.net/qq_44982110/article/details/131654425)
-
-[Java补全数据库查询统计数据缺失的日期](https://blog.csdn.net/m4330187/article/details/106069176/)
-
-- 对数据库 group by 后的查询结果补全数据，可以在 Java 代码中使用快慢指针的算法
 
 ## Java 特殊功能模块
 
@@ -92,10 +62,6 @@ N Number 数值类型
 [【Java 基础篇】Java 模块化详解](https://blog.csdn.net/qq_21484461/article/details/131421855)
 
 [【Java 模块系统】module-info 模块描述符](https://blog.csdn.net/qq_60914456/article/details/126206715)
-
-## Java Properties
-
-Properties 读取的文件的后缀不需要是 properties，甚至可以不要后缀，没有转义的空格是不会被读取的 [Class Properties](https://docs.oracle.com/en/java/javase/22/docs/api/java.base/java/util/Properties.html)
 
 ## Java 的奇葩
 

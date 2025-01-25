@@ -30,25 +30,9 @@
 
 [springboot由3.1.5升级到3.2.0 报Invalid value type for attribute ‘factoryBeanObjectType‘: java.lang.String](https://blog.csdn.net/u011410254/article/details/134611035)
 
-## 创建 Bean、IOC/DI
-
-[Spring框架|通过工厂创建Bean的三种方式](https://blog.csdn.net/weixin_43691058/article/details/105010733)
-
-[扯一把 Spring 的三种注入方式，到底哪种注入方式最佳？](https://blog.csdn.net/u012702547/article/details/120905964)
-
-[这6种 Spring 依赖注入方式，你都会吗？](https://developer.aliyun.com/article/1348301)
-
 ## Spring 数据库
 
 [spring: 使用嵌入式数据源 EmbeddedDatabaseBuilder](https://blog.csdn.net/weixin_33975951/article/details/85965345)
-
-## Spring 邮件
-
-[Spring Boot项目邮箱验证码功能的实现（以QQ邮箱为例）](https://blog.csdn.net/qq_47770103/article/details/119453585)
-
-[Spring学习笔记之使用Spring发送Email](https://blog.csdn.net/CSDN_XueXiaoQiang/article/details/73730649)
-
-[Spring Boot 发送邮件](https://springdoc.cn/spring-boot-email/)
 
 ## Spring 表单、文件参数
 
