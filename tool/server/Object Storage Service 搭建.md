@@ -11,3 +11,7 @@
 [MinIO](https://min.io/)
 
 [MinIO](https://www.minio.org.cn/)
+
+## 其他 OSS
+
+- FastDFS

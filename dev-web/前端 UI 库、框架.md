@@ -139,7 +139,7 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - dayjs 时间格式化（在 element-plus 内置）
 - [Normalize.css](https://necolas.github.io/normalize.css/)
 - [JavaScript 库](https://www.runoob.com/js/js-libraries.html)
-
+- [pure.js](https://pure-js.com/)
 - YUI - Yahoo! User Interface Framework，涵盖大量函数的大型库，从简单的 JavaScript 功能到完整的 internet widget。
 - Ext JS - 可定制的 widget，用于构建富因特网应用程序（rich Internet applications）。
 - Dojo - 用于 DOM 操作、事件、widget 等的工具包。
