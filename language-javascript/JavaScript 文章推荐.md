@@ -57,6 +57,8 @@ add();
 
 [JS防抖函数的实现(巨详细,秒懂)](https://blog.csdn.net/qq_63299825/article/details/130862307)
 
+[前端防抖（Debounce）和节流（Throttle）详解](https://blog.csdn.net/m0_64974617/article/details/143112989)
+
 [深入理解ES6箭头函数里的this，看这篇就够了](https://blog.csdn.net/lidysun/article/details/104492774)
 
 [如何在HTML中限制input 输入框只能输入纯数字](https://blog.csdn.net/w6990548/article/details/79388905)

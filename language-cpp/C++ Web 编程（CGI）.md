@@ -27,3 +27,8 @@
 ## fys 笔记
 
 Apache 部署在 Windows 上，在浏览器运行程序时候，需要使用完整的可执行文件名。例如编译出的程序为 "test.exe" 那么URL为 `http://xxxxxx/test.exe`。文件名可以去掉 ".exe"，去掉后，那么URL为 `http://xxxxxx/test`。
+
+## 其他 Web 框架
+
+- hggq/paozhu
+- Oat++

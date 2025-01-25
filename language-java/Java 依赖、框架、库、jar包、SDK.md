@@ -79,6 +79,7 @@
 
 - `Google HTTP Client Library For Java`：HTTP 协议的网络编程，包含了 JSON 的处理
 - `Apache HttpClient`：
+- `GWT(Google Web Toolkit)`
 
 ## Excel
 

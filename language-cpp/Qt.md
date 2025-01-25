@@ -5,3 +5,6 @@
 [Qt 快速入门系列教程](https://wizardforcel.gitbooks.io/qt-beginning/content/)
 
 [Qt 开源社区](https://www.qter.org/)
+
+- Felgo
+- Qt Marketplace
