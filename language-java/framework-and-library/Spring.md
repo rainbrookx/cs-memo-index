@@ -46,15 +46,21 @@
 
 【推荐】[BindException、ConstraintViolationException、MethodArgumentNotValidException入参验证异常分析和全局异常处理解决方法](https://blog.csdn.net/qq_43409401/article/details/116017177)
 
-## Spring 自定义异常与自定义异常全局处理
+## Spring MVC 响应拦截
 
-[Spring Boot项目优雅的全局异常处理方式（全网最新）](https://blog.csdn.net/qq_41107231/article/details/115874974)
+> 用途：自定义异常并全局处理异常；
 
-[SpringBoot实现自定义异常+全局异常处理（多个异常处理类catch顺序）【详细步骤+图解】](https://blog.csdn.net/qq_44901285/article/details/115795626)
+- 实现 `HandlerExceptionResolver` 接口，或者配置它的实现类
+- 继承 `ResponseEntityExceptionHandler` 抽象类
+- 使用 `@ControllerAdvice` + `@ExceptionHandler` 注解
+- 使用 `@RestControllerAdvice` + `@ExceptionHandler` 注解
+- 使用 `ResponseStatusException` 直接抛出带有状态码的异常，不是全局捕获
+- 在 `controller层` 中使用 `@ExceptionHandler`
+- 使用 AOP，以 `controller层` 所有 API 接口为切点
+- 配置 `application.properties`
+- 其他：使用 `@RestControllerAdvice` + 实现 `ResponseBodyAdvice` 接口，完成统一响应体的封装，单有时候不需要封装，所以可以设置不开启统一响应的自定义注解
 
-[springboot对异常信息的统一处理(@ExceptionHandler与@RestControllerAdvice那点事情)](https://blog.csdn.net/xueyijin/article/details/122527688)
-
-[Spring Boot 统一参数校验、统一异常、统一响应，这才是优雅的处理方式！](https://segmentfault.com/a/1190000042194671)
+【推荐】[Spring Boot 统一参数校验、统一异常、统一响应，这才是优雅的处理方式！](https://segmentfault.com/a/1190000042194671)
 
 ## Spring Security
 
