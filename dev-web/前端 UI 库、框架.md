@@ -104,6 +104,11 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 ## 富文本
 
 - wangEditor：<https://www.wangeditor.com/>
+- quilljs.com
+
+## Markdown
+
+- md-editor-v3
 
 ## Vue.js 生态
 
@@ -145,3 +150,7 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - Dojo - 用于 DOM 操作、事件、widget 等的工具包。
 - script.aculo.us - 开源的 JavaScript 框架，针对可视效果和界面行为。
 - UIZE - Widget、AJAX、DOM、模板等等。
+- PanJiaChen/vue-element-admin：后台管理员模板
+- riophae/vue-treeselect：Vue 树形结构
+- tailwindcss
+- windicss

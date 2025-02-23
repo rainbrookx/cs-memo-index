@@ -19,7 +19,9 @@
 
 ## 其他
 
-[把C++当脚本语言写！](https://www.cnblogs.com/index-html/archive/2012/07/28/cppscript.html)
+- [把C++当脚本语言写！](https://www.cnblogs.com/index-html/archive/2012/07/28/cppscript.html)
+- 数组指定初始化器（designated initializer）
+- 外部函数（extern）、内部函数（static，也称为静态函数）、内联函数（inline）
 
 ## C++ 11 特性
 

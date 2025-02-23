@@ -46,6 +46,10 @@
 
 【推荐】[BindException、ConstraintViolationException、MethodArgumentNotValidException入参验证异常分析和全局异常处理解决方法](https://blog.csdn.net/qq_43409401/article/details/116017177)
 
+## Spring MVC
+
+- 视图解析器前后缀
+
 ## Spring MVC 响应拦截
 
 > 用途：自定义异常并全局处理异常；
@@ -64,29 +68,12 @@
 
 ## Spring Security
 
-[springboot项目引入security后请求报401错误的坑](https://www.cnblogs.com/mydesky2012/p/14539755.html)
-
-[spring security 明明放行了请求路径但是一直报 401 unauthorized](https://blog.csdn.net/qq_45691577/article/details/129349297)
-
-[Spring Security - Samples](https://spring.io/projects/spring-security#samples)
-
-[spring security中的密码加密：BCrypt算法工具类BCryptPasswordEncoder](https://blog.csdn.net/chushiyan/article/details/103773679)
-
-[Spring Security（新版本）实现权限认证与授权](https://blog.csdn.net/weixin_46073538/article/details/128641746)
-
-【推荐】[SpringSecurity默认用户名密码从哪来，为什么要写UserDetails...](https://blog.csdn.net/weixin_46827107/article/details/120215626)
-
-[Spring Security最简单全面教程（带Demo）](https://blog.csdn.net/qq_37771475/article/details/86153799)
-
-[SpringSecurity基本配置](https://blog.csdn.net/qq_40369277/article/details/133218894)
-
-[springboot整合springsecurity最完整，只看这一篇就够了](https://www.cnblogs.com/qiantao/p/14605154.html)
-
-## Spring 跨域
-
-[SpringBoot 中实现跨域的5种方式](https://blog.csdn.net/shaoming314/article/details/113937467)
-
-[【译】3种解决CORS错误的方式与Access-Control-Allow-Origin的作用原理](https://segmentfault.com/a/1190000022506474)
+- BCrypt
+- JWT + RSA 分布式认证（JWT：JSON Web Tokens）
+- CSRF：Cross-Site Request Forgery，跨站请求伪造
+- CORS：Cross-Origin Resource Sharing，跨源资源共享，跨域
+- OAuth 2.0
+- SSO：Single sign-on，单点登录
 
 ## Spring 配置文件内容加密
 
@@ -103,6 +90,8 @@
 [深入Spring，从源码开始！](https://github.com/xuchengsheng/spring-reading)
 
 ## 其他
+
+- Spring EL：SpEL，Spring Expression Language
 
 [阿里云 Java 8 Spring 脚手架](https://start.aliyun.com/)
 

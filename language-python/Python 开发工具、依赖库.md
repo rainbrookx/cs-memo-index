@@ -50,14 +50,31 @@ python setup.py bdist_wheel
 
 - mypy：检查 Python 代码是否规范
 
-## 数据可视化
+## 数据库
+
+- Python Gadfly
+
+## 数据可视化、图表、图形学
 
 - Gephi
+- pyecharts、pyecharts-gallery
+- PyOpenGL
 
 ## 数学、科学计算
 
 - SciPy
 - NumPy
+- SymPy
+- Matplotlib
+- Spyder
+
+## 分词
+
+- jieba
+
+## 人工智能
+
+- scikit-learn
 
 ## 二维码、条码
 
@@ -70,6 +87,15 @@ python setup.py bdist_wheel
 - PySide
 - PyQt
 - NiceGUI
+- wxPython
+- PyGObject
+
+## 网络
+
+- Twisted
+- py4web
+- web2py
+- Zope
 
 ## 文章参考
 
@@ -79,3 +105,4 @@ python setup.py bdist_wheel
 
 - GitPython
 - [uv](https://docs.astral.sh/uv/) An extremely fast Python package and project manager, written in Rust.
+- wordcloud 词云
