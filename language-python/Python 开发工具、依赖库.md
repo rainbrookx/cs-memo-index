@@ -97,6 +97,11 @@ python setup.py bdist_wheel
 - web2py
 - Zope
 
+## 打包成可执行文件
+
+- Pyinstaller
+- Nuitka
+
 ## 文章参考
 
 [Python 网络爬虫的常用库汇总（建议收藏）](https://blog.csdn.net/l01011_/article/details/133348896)
