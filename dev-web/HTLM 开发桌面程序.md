@@ -4,8 +4,6 @@
 
 [如何让一个html网页变成一个exe可执行程序](https://cloud.tencent.com/developer/article/1743736)
 
-[将web网站打包成电脑桌面应用，electron，nativefier](https://blog.csdn.net/raoxiaoya/article/details/112472645)
-
 - Chrome App
 - electron
 - Nativefier
