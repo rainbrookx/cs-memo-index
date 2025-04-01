@@ -15,8 +15,6 @@ npm install -g xxx      # 全局安装
 
 ## nodejs 学习--NPM全局包管理
 
-> <https://blog.csdn.net/lovecwh/article/details/130988925>
-
 ```text
 全局包是保存在电脑user目录下的，只需安装一次。
 

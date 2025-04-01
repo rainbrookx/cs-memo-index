@@ -1,9 +1,10 @@
 # 常用的 AI 工具
 
-## 导航
+## 导航、排行
 
 - AIGC 工具导航 <https://www.aigc.cn/>
 - AI 工具集 <https://ai-bot.cn/>
+- AI Model & API Providers Analysis | Artificial Analysis <https://artificialanalysis.ai/>
 
 ## AIGC
 
@@ -18,6 +19,16 @@
 - 豆包
 - 腾讯元宝
 - Manus
+
+## 本地大型语言模型运行框架
+
+- ollama
+
+## 大模型客户端
+
+- AnythingLLM
+- Cherry Studio
+- Open WebUI
 
 ## 产品设计
 
