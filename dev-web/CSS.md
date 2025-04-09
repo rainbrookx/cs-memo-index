@@ -24,21 +24,14 @@
 
 [探究 position-sticky 失效问题](https://www.cnblogs.com/coco1s/p/14180476.html)
 
-## CSS 爱心代码
-
-[css爱心代码（抖音上很火）](https://blog.csdn.net/qq_61047719/article/details/127769719)
-
-[css怎么实现心形](https://www.php.cn/css-tutorial-480342.html)
-
 ## CSS 3D正方体旋转透视
 
 [【CSS3进阶】酷炫的3D旋转透视](https://www.cnblogs.com/coco1s/p/5414153.html)
 
 ## CSS 制作菜单
 
-[CSS - 鼠标移入悬停显示下拉菜单（导航栏鼠标经过 hover 时出现二级菜单）](https://blog.csdn.net/weixin_44198965/article/details/126936549)
-
-[vue实现鼠标移入动态展示导航栏二级菜单（异步）](https://blog.csdn.net/yu99215/article/details/138189038)
+- 鼠标移入悬停显示下拉菜单（导航栏鼠标经过 hover 时出现二级菜单）
+- vue实现鼠标移入动态展示导航栏二级菜单（异步）
 
 [CSS 下拉菜单](https://www.runoob.com/css/css-dropdowns.html)
 
@@ -126,3 +119,7 @@ LVHA 原则
 > LVHA-order: :link — :visited — :hover — :active [via. MDN - CSS - :link](https://developer.mozilla.org/en-US/docs/Web/CSS/:link)
 
 BFC：Block formatting context，区块格式化上下文，用于解决塌陷问题、内容溢出的最好方案，也是 CSS 风格[Block formatting context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_display/Block_formatting_context)
+
+## CSS 有趣的操作
+
+- CSS 爱心代码

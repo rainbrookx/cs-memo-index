@@ -5,6 +5,12 @@
 - AIGC 工具导航 <https://www.aigc.cn/>
 - AI 工具集 <https://ai-bot.cn/>
 - AI Model & API Providers Analysis | Artificial Analysis <https://artificialanalysis.ai/>
+- Toolify.ai <https://www.toolify.ai/zh/>
+- 发现AI <https://www.faxianai.com/>
+- 非猪ai导航 <https://feizhuke.com/>
+- Future Tools <https://www.futuretools.io/>
+- 优设AI导航 <https://hao.uisdc.com/ai/> 设计类
+- AI导航123 <https://aidh123.com/>
 
 ## AIGC
 
@@ -33,3 +39,14 @@
 ## 产品设计
 
 - MasterGo AI
+
+## 编程开发
+
+- Trae
+- MarsCode
+- CodeGeex
+- 通义灵码
+- Devin
+- Cursor
+- v0.dev：前端
+- JetBrains AI Assistant
