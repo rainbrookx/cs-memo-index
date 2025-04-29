@@ -115,3 +115,4 @@ python setup.py bdist_wheel
 - GitPython
 - [uv](https://docs.astral.sh/uv/) An extremely fast Python package and project manager, written in Rust.
 - wordcloud 词云
+- Faker：生成各种类型的假数据

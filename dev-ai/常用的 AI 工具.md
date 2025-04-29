@@ -11,6 +11,7 @@
 - Future Tools <https://www.futuretools.io/>
 - 优设AI导航 <https://hao.uisdc.com/ai/> 设计类
 - AI导航123 <https://aidh123.com/>
+- AIHub <https://www.aihub.cn/>
 
 ## AIGC
 
@@ -25,6 +26,8 @@
 - 豆包
 - 腾讯元宝
 - Manus
+- Dify AI
+- Anthropic Claude
 
 ## 本地大型语言模型运行框架
 
@@ -44,9 +47,22 @@
 
 - Trae
 - MarsCode
-- CodeGeex
+- CodeGeeX
 - 通义灵码
 - Devin
 - Cursor
 - v0.dev：前端
 - JetBrains AI Assistant
+
+## API 提供商
+
+- SiliconFlow：硅基流动
+- OpenRouter：有免费的 deepseek-v3
+
+## 插件
+
+- Cline：MCP
+
+## MCP 服务
+
+- Smithery：<https://smithery.ai/>
