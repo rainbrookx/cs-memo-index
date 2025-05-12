@@ -89,17 +89,20 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - [webpack](https://webpack.js.org/)
 - [Parcel](https://parceljs.org/)
 - [Parcel 中文](https://www.parceljs.cn/)
+- font-spider 字体压缩
 
 ## PJAX
 
 - [集成 Pjax 实现网站无刷新加载](https://liuyib.github.io/2019/09/24/use-pjax-to-your-site/)
 - MoOx/pjax、defunkt/jquery-pjax【依赖于 jQuery】
 
-## 图片轮播、幻灯片
+## 图片轮播、幻灯片、PPT、全屏滚动
 
 > Image Gallery
 
 - swiperjs：<https://swiperjs.com/>、<https://swiper.com.cn/>
+- fullPage.js：全屏滚动插件 <https://github.com/alvarotrigo/fullPage.js>
+- reveal.js：PPT
 
 ## 富文本
 
@@ -115,6 +118,12 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - pinia-plugin-persistedstate
 - vuex-persistedstate
 - mitt.js
+
+## 动画
+
+- [animate.css](https://animate.style/)
+- [GSAP.js](https://gsap.com/)
+- [ScrollTrigger.js | GSAP.js 的插件]
 
 ## 其他
 
@@ -134,7 +143,6 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - [prototype.js](http://prototypejs.org/)
 - [MooTools](https://mootools.net/)
 - [Handlebars](https://handlebarsjs.com/)、[中文站](https://www.handlebarsjs.cn/)
-- [animate.css](https://animate.style/)
 - [Velocity.js](http://velocityjs.org/)
 - [Lodash](https://lodash.com/)
 - Day.js 解析、验证、操作和显示日期和时间
