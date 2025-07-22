@@ -63,6 +63,7 @@ python setup.py bdist_wheel
 - Gephi
 - pyecharts、pyecharts-gallery
 - PyOpenGL
+- PyQtGraph
 
 ## 数学、科学计算
 

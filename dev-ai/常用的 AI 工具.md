@@ -12,6 +12,8 @@
 - 优设AI导航 <https://hao.uisdc.com/ai/> 设计类
 - AI导航123 <https://aidh123.com/>
 - AIHub <https://www.aihub.cn/>
+- 猫目 <https://maomu.com/>
+- ToolAI <https://www.toolai.io/zh/>
 
 ## AIGC
 
@@ -28,6 +30,7 @@
 - Manus
 - Dify AI
 - Anthropic Claude
+- Hugging Face
 
 ## 本地大型语言模型运行框架
 
