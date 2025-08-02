@@ -127,6 +127,7 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 
 ## 其他
 
+- Vanilla JavaScript （原生的 JavaScript！！）
 - jQuery
 - Node.js
 - Vue.js
