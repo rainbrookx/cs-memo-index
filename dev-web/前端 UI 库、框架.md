@@ -115,6 +115,7 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 
 ## Vue.js 生态
 
+- vue-virtual-scroller
 - pinia-plugin-persistedstate
 - vuex-persistedstate
 - mitt.js

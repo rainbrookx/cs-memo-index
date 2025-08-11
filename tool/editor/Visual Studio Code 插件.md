@@ -88,3 +88,5 @@ File Utils插件,可以方便快捷的来创建、复制、移动、重命名文
 - publisher："Jun Han"，这个作者的很多插件很好用
 - techer.open-in-browser
 - CodeSnap：代码截图
+- Html Embedded Javascript：在 HTML 文件中，通过 src 引入独立的 JS 文件时实现代码提示。
+- IntelliSense for CSS class names in HTML：在 HTML 文件中，通过 link 引入独立的 CSS 文件时实现代码提示。
