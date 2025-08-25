@@ -25,10 +25,6 @@
 
 - UTC：<https://worldtimeapi.org/api/timezone/etc/UTC.txt>
 
-## 地图
-
-[三大地图付费后，仍可用的免费商用地图API](https://blog.csdn.net/wm2ufq48/article/details/128333344)
-
 ## 实用 API
 
 - 教书先生：<https://api.oioweb.cn/>

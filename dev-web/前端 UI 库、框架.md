@@ -69,6 +69,7 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - PrimeVUE
 - uViewUI：专门用于 uni-app 开发 <https://uviewui.com/>
 - B-JUI (Best jQuery UI)
+- Lulu UI
 - [推荐10个最受欢迎的 Vue.js UI 库](https://segmentfault.com/a/1190000044633126)
 
 ## 模板引擎
