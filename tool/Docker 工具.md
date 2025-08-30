@@ -14,6 +14,9 @@
         "https://hub.rat.dev",
         "https://docker-0.unsee.tech",
         "https://registry.cyou",
+        "https://status.anye.xyz/",
+        "https://mirror.kentxxq.com/image",
+        "https://1ms.run/",
     ]
 }
 ```

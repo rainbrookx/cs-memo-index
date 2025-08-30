@@ -15,3 +15,4 @@
 ## 其他 OSS
 
 - FastDFS
+- S3：Simple Storage Service

@@ -21,3 +21,4 @@
 - 思维树（Tree of Thoughts, ToT）
 - Boosting of Thoughts
 - 分隔符号区分单元：`###`、`===`、`>>>`
+- 最佳实践

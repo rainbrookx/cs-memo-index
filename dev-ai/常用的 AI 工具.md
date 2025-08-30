@@ -31,6 +31,7 @@
 - Dify AI
 - Anthropic Claude
 - Hugging Face
+- boardmix：AI生成思维导图
 
 ## 本地大型语言模型运行框架
 
@@ -56,6 +57,7 @@
 - Cursor
 - v0.dev：前端
 - JetBrains AI Assistant
+- Clone UI Designs Directly into Code <https://cloneui.org/>
 
 ## API 提供商
 

@@ -6,7 +6,7 @@
 ## 工具
 
 - Typora
-- Obsidian
+- Obsidian、黑曜石
 
 [再见 Typora！这款 Markdown 神器绝了！](https://blog.csdn.net/sinat_33224091/article/details/122150807)
 
