@@ -10,7 +10,8 @@ sudo apt autoclean
 
 ## 常用工具
 
-[在Linux命令行中使用计算器的5个命令](https://www.cnblogs.com/yychuyu/p/13543143.html)
+- [在Linux命令行中使用计算器的5个命令](https://www.cnblogs.com/yychuyu/p/13543143.html)
+- lrzsz：服务器文件上传下载
 
 ## 记录屏幕输出
 

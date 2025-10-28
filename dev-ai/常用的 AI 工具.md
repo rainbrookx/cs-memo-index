@@ -55,6 +55,8 @@
 - 通义灵码
 - Devin
 - Cursor
+- Qoder
+- Augment Code
 - v0.dev：前端
 - JetBrains AI Assistant
 - Clone UI Designs Directly into Code <https://cloneui.org/>

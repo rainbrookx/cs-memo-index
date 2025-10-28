@@ -1,5 +1,11 @@
 # 提示词 Prompt
 
+> 提示词工程技巧、提示词框架、提示词工程师
+
+## 提示词
+
+- GPT-Prompt-Hub <https://github.com/LichAmnesia/GPT-Prompt-Hub>
+
 ## Prompt 框架（构成元素）
 
 背景：介绍与任务紧密相关的背景信息。这一环节有助于LLM深入理解讨论的具体环境，从而保证其生成内容与话题高度相关。
@@ -16,7 +22,7 @@
 
 ## 提示词术语
 
-- 思维链（Chain of Thought，COT）
+- 思维链（Chain of Thought，COT）：链式思考、思考链
 - 提示链（Prompt Chaining）
 - 思维树（Tree of Thoughts, ToT）
 - Boosting of Thoughts

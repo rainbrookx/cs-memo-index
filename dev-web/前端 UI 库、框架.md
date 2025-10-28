@@ -43,13 +43,10 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - Mint UI
 - WeUI
 - [iView UI | View UI](https://www.iviewui.com)
-- [Layui](https://layui.itze.cn)
-- ElementUI
 - [vant UI](https://vant-ui.github.io/vant/#/zh-CN) 适用于 Vue3 开发移动端
 - Vant Weapp
 - Flutter
 - Quasar Framework
-- bootstrap
 - MuseUI
 - [jQuery UI](https://jqueryui.com/)、[中文站](https://www.jqueryui.org.cn/)
 - [EasyUI | jQuery EasyUI](https://jeasyui.com/)、[中文站](https://www.jeasyui.cn/)
@@ -72,19 +69,6 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - Lulu UI
 - [推荐10个最受欢迎的 Vue.js UI 库](https://segmentfault.com/a/1190000044633126)
 
-## 模板引擎
-
-- [EJS | Embedded JavaScript templating](https://ejs.co/)、[EJS -- 嵌入式 JavaScript 模板引擎 | EJS 中文文档](https://ejs.bootcss.com/)
-- [Jade](https://jade-lang.com/)
-- [Mustache](https://mustache.github.io/)
-- Transparency
-- Underscore.js
-- [doT.js](https://olado.github.io/doT/)
-- [Handlebars](https://handlebarsjs.com/)
-- [T.js](https://github.com/gcao/T.js)
-- Nunjucks
-- Dust.js
-
 ## 打包工具
 
 - [webpack](https://webpack.js.org/)
@@ -97,35 +81,12 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - [集成 Pjax 实现网站无刷新加载](https://liuyib.github.io/2019/09/24/use-pjax-to-your-site/)
 - MoOx/pjax、defunkt/jquery-pjax【依赖于 jQuery】
 
-## 图片轮播、幻灯片、PPT、全屏滚动
-
-> Image Gallery
-
-- swiperjs：<https://swiperjs.com/>、<https://swiper.com.cn/>
-- fullPage.js：全屏滚动插件 <https://github.com/alvarotrigo/fullPage.js>
-- reveal.js：PPT
-
-## 富文本
-
-- wangEditor：<https://www.wangeditor.com/>
-- quilljs.com
-
-## Markdown
-
-- md-editor-v3
-
 ## Vue.js 生态
 
 - vue-virtual-scroller
 - pinia-plugin-persistedstate
 - vuex-persistedstate
 - mitt.js
-
-## 动画
-
-- [animate.css](https://animate.style/)
-- [GSAP.js](https://gsap.com/)
-- [ScrollTrigger.js | GSAP.js 的插件]
 
 ## 其他
 
@@ -135,6 +96,10 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - Vue.js
 - React.js
 - AngularJS、Angular
+- Svelte
+- Preact
+- Inferno
+- Solid.js
 - EmberJS
 - ExpressJS：用 JavaScript 做后端语言
 - Electron：用 JavaScript 写桌面程序（GUI）
@@ -162,6 +127,3 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - script.aculo.us - 开源的 JavaScript 框架，针对可视效果和界面行为。
 - UIZE - Widget、AJAX、DOM、模板等等。
 - PanJiaChen/vue-element-admin：后台管理员模板
-- riophae/vue-treeselect：Vue 树形结构
-- tailwindcss
-- windicss
