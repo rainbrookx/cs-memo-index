@@ -20,6 +20,7 @@
 ## 占位符
 
 - {JSON} Placeholder：<https://jsonplaceholder.typicode.com/>
+- 图片占位 Lorem Picsum：<https://picsum.photos/>
 
 ## 日期时间
 
