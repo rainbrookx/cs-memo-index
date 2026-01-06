@@ -14,3 +14,6 @@
 - Agent
 - 长上下文（Long context）
 - 知识图谱
+- Agent Skill（SKILL.md）
+- todolist、plan、spec
+- 长期记忆，可以通过模型参数微调（固化知识）、知识图谱（结构化语义网络）或向量数据库（相似性检索）方式实现。

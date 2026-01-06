@@ -14,6 +14,7 @@
 - AIHub <https://www.aihub.cn/>
 - 猫目 <https://maomu.com/>
 - ToolAI <https://www.toolai.io/zh/>
+- AI神器大全 <https://aishenqi.net/>
 
 ## AIGC
 
