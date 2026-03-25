@@ -25,6 +25,12 @@
 
 ## 多版本 Node.js
 
+### NVM
+
 [Windows/macOS/Linux上安装Node.js，并使用NVM管理多版本Node.js](https://www.mintimate.cn/2021/07/26/nvmNode/)、[B 站配套视频](https://www.bilibili.com/video/BV12h411z7Kq/)
+
+- NVM 文档 <https://www.nvmnode.com/>
+
+### NVS
 
 NVS (Node Version Switcher)

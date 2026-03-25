@@ -16,6 +16,10 @@
 - ImGUI
 - [C++界面库(十几种,很全)](https://blog.csdn.net/lzhdim/article/details/134510462)
 
+## 工具箱（类似 Java Hutool）
+
+- cpp-master/cpp-tbox <https://gitee.com/cpp-master/cpp-tbox>
+
 ## 其他
 
 openFrameworks：<https://openframeworks.cc/>

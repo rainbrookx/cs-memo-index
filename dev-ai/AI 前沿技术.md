@@ -19,3 +19,6 @@
 - 长期记忆，可以通过模型参数微调（固化知识）、知识图谱（结构化语义网络）或向量数据库（相似性检索）方式实现。
 - JSON 提示词
 - google-gemini/computer-use-preview
+- Codex CLI
+- Gemini CLI
+- 多智能体蜂群

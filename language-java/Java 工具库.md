@@ -91,3 +91,5 @@
 ## 其他
 
 - CGLIB(Code Generation Library)
+- GraalVM
+- Java Chromium Embedded Framework (JCEF)

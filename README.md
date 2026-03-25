@@ -20,6 +20,15 @@
 
 - CommonMark 语法文档 [https://commonmark.org/help/](https://commonmark.org/help/)
 
+## 排版是第一生产力
+
+> <https://javaguide.cn/javaguide/contribution-guideline.html>
+
+- [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+- [中文技术文档写作风格指南](https://github.com/yikeke/zh-style-guide/)
+- [中文文案排版细则 - Dawner](https://dawner.top/posts/chinese-copywriting-rules/)
+- [写给大家看的中文排版指南 - 知乎](https://zhuanlan.zhihu.com/p/20506092)
+
 ## 其他老师、同学提供的标记
 
 例如：

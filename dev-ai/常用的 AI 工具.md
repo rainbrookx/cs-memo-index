@@ -15,6 +15,8 @@
 - 猫目 <https://maomu.com/>
 - ToolAI <https://www.toolai.io/zh/>
 - AI神器大全 <https://aishenqi.net/>
+- AI 产品库 <https://aiproducthub.cn/>
+- 大模型导航 <https://llmindex.link/>
 
 ## AIGC
 
@@ -33,6 +35,17 @@
 - Anthropic Claude
 - Hugging Face
 - boardmix：AI生成思维导图
+- Open-AutoGLM、豆包手机
+- OpenClaw / ClawdBot / Moltbot
+- Kimi Claw
+- TinyFish
+- hellodigua/ChatLab
+- stellarlinkco/myclaw
+- memU Bot
+- HKUDS/nanobot
+- MimiClaw
+- ruilisi/lingti-bot
+- ZeroClaw
 
 ## 本地大型语言模型运行框架
 
@@ -62,10 +75,12 @@
 - JetBrains AI Assistant
 - Clone UI Designs Directly into Code <https://cloneui.org/>
 
-## API 提供商
+## API 提供商（MaaS）
 
 - SiliconFlow：硅基流动
 - OpenRouter：有免费的 deepseek-v3
+- CloseAI
+- 智谱AI开放平台：<https://bigmodel.cn/>
 
 ## 插件
 
