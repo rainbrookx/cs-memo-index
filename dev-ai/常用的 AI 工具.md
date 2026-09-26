@@ -89,3 +89,7 @@
 ## MCP 服务
 
 - Smithery：<https://smithery.ai/>
+
+## 其他
+
+- DevTk.AI - 模型定价、MCP 与结构化输出工具 <https://devtk.ai/zh/>

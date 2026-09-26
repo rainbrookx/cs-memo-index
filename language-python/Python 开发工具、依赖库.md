@@ -33,6 +33,7 @@
 - Jupyter Lab
 - Spyder
 - PandasGUI
+- cProfile
 
 ## 打包工具
 

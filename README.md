@@ -28,9 +28,3 @@
 - [中文技术文档写作风格指南](https://github.com/yikeke/zh-style-guide/)
 - [中文文案排版细则 - Dawner](https://dawner.top/posts/chinese-copywriting-rules/)
 - [写给大家看的中文排版指南 - 知乎](https://zhuanlan.zhihu.com/p/20506092)
-
-## 其他老师、同学提供的标记
-
-例如：
-（L同学提供）
-（Z老师提供）

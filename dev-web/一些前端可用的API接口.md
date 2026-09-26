@@ -34,6 +34,10 @@
 - JSON API免费接口：<http://www.bejson.com/knownjson/webInterface/>
 - free-api：<https://www.free-api.com/>
 
+## 天气
+
+- Open-Meteo：<https://open-meteo.com/>
+
 ## 其他收集
 
 [超百个免费api接口，分享给你「建议收藏」](https://cloud.tencent.com/developer/article/2081636)
