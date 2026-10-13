@@ -105,7 +105,7 @@ https://bitcoin-on-nodejs.ebookchain.org/2-Node.js入门指南/3-Nodejs让后台
 - NestJS：后端
 - MidwayJS
 - Electron：用 JavaScript 写桌面程序（GUI）
-- 常见的后端框架：常见的就有egg，nest，koa2，express等等
+- 常见的后端框架：常见的就有egg.js，nest，koa2，express等等
 - Ember
 - Knockout
 - Polymer

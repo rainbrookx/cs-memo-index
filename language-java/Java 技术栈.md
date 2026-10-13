@@ -18,6 +18,9 @@
 ---
 
 - Spring Boot
+- Quarkus
+- Micronaut
+- Javalin
 - Spring Cloud
 - MyBatis
 - MyBatis-Plus
@@ -43,6 +46,16 @@
 - Alibaba Sentinel
 - Seata
 - Spring Task
+
+## 定时任务
+
+- Spring Task
+- Quartz
+- XXL-JOB
+- Elastic-Job
+- Saturn
+- Hutool CronUtil
+- PowerJob
 
 ## 其他技术栈
 
